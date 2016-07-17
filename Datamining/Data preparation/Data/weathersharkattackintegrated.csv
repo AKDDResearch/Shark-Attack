@@ -1,0 +1,1148 @@
+"","Date","moonphase","Case.Number","Year","Type","Country","Area","Location","Activity","Name","Sex","Age","Injury","Fatal..Y.N.","Time","Species","Investigator.or.Source","Attack","Hours","X","time.of.attack","DailyAverageDryBulbTemp","DailyPrecipitation","DailyAverageStationPressure","DailyAverageWindSpeed","DailyAverageDewPointTemp"
+"1","2009-07-22","New","2009.07.22.b",2009,"Unprovoked","USA","North Carolina","Holden Beach. Brunswick County","Swimming","Julia Anne Mittleberg","F","26","Laceration to left foot","N","15h00","","C. Creswell, GSAF","Yes","15",TRUE,"Day","79","0.31",30.09,6.8,71
+"2","2009-09-12","Third quarter","2009.09.12",2009,"Invalid","USA","North Carolina","Corolla, Currituck County","Swimming","Richard A Snead","M","60","FATAL","Y","21h00","Shark involvement prior to death not confirmed","C. Creswell, GSAF  ","Yes","21",TRUE,"Dusk","70","0",29.98,5.2,66
+"3","2010-06-25","Full","2010.06.25.a",2010,"Unprovoked","USA","North Carolina","Topsail Island, Pender County","Swimming","Carley Schlentz","F","13","Laceration to left foot","N","13h00","","C. Creswell, GSAF","Yes","13",TRUE,"Day","80","T",29.98,8.4,76
+"4","2010-07-17","First quarter","2010.07.17.b",2010,"Unprovoked","USA","North Carolina","Wrightsville Beach, New Hanover County","Swimming","Kendall Parker","F","13","Lacerations to right forearm","N","13h30","Sandtiger shark, 4' to 5'","C. Creswell, GSAF","Yes","13",TRUE,"Day","76","1",30.05,15.2,77
+"5","2010-08-07","New","2010.08.07.b",2010,"Unprovoked","USA","North Carolina","Figure Eight Island, Wilmington, New Hanover County","Surfing","Josh Clement","M","25","Left foot bitten","N","15h00","","C. Creswell, GSAF","Yes","15",TRUE,"Day","81","0",29.87,5.8,76
+"6","2011-07-19","Waning gibbous","2011.07.19",2011,"Unprovoked","USA","North Carolina","Ocracoke Island, Hyde County","Boogie Boarding","Lucy Magnum","F","6","Lower right leg & foot bitten","N","17h30","","C. Creswell, GSAF; WITN.com","Yes","17",TRUE,"Evening","82","0",29.91,9.2,NA
+"7","2011-08-11","Full","2011.08.11",2011,"Unprovoked","USA","North Carolina","Beaufort Inlet","Swimming","Don White","M","54","Lower right leg bitten","N","14h00","","Eyewitness News 9, 8/12/011","Yes","14",TRUE,"Day","83","0",29.81,6,NA
+"8","2011-08-17","Waning gibbous","2011.08.17.b.",2011,"Invalid","USA","North Carolina","Wrightsville Beach, New Hanover County","","","M","12","Abrasions to left hand","N","16h00","Shark involvement not confirmed","C. Creswell, GSAF; Wway, 8/17/2011","Yes","16",TRUE,"Evening","80","0",30.09,5.8,NA
+"9","2011-08-17","Waning gibbous","2011.08.17.c.",2011,"Unprovoked","USA","North Carolina","Kure Beach, New Hanover County","Wading","Trang Aronian","F","20s","Lacerations to foot","N","17h00","Possibly a 5' to 6' sandtiger shark","C. Creswell","Yes","17",TRUE,"Evening","80","0",30.09,5.8,NA
+"10","2011-08-24","New","2011.08.24.b",2011,"Unprovoked","USA","North Carolina","Buxton Beach, Dare County","Surfing","Kevin Dinneen","M","21","Lacerations to foot","N","","","Shark Times","Yes","",FALSE,"0","80","0.01",30.04,6.6,NA
+"11","2011-08-24","New","2011.08.24.a",2011,"Unprovoked","USA","North Carolina","Holden Beach. Brunswick County","","male","M","10","Heel bitten","N","15h30","","WECT.com, 8/24/2011","Yes","15",TRUE,"Day","80","0.01",30.04,6.6,NA
+"12","2012-05-31","Full","2012.05.31",2012,"Unprovoked","USA","North Carolina","Avon, Hatteras Island, Outer Banks, Dare County","Wading","Megan Konkler","F","33","Foot bitten","N","13h30","18"" to 24"" shark","C. Creswell","Yes","13",TRUE,"Day","78","0",29.83,8.8,69
+"13","2012-06-18","New","2012.06.18",2012,"Unprovoked","USA","North Carolina","Ocean Isle, Brunswick County","Wading","Brooklyn Daniel","F","6","Numerous puncture wounds to leg ","N","11h00","","C. Creswell","Yes","11",TRUE,"Day","72","0",30.07,4,60
+"14","2012-07-08","Waning gibbous","2012.07.08",2012,"Unprovoked","USA","North Carolina","North Topsail Beach, Onslow County","Swimming","Tracy Fasick","F","43","Lacerations to right ankle and calf","N","17h30","","A. Brenneka, SharkAttackSurvivors.com; T.Fasick","Yes","17",TRUE,"Evening","84","0",29.91,12.7,77
+"15","2012-07-24","First quarter","2012.07.24",2012,"Invalid","USA","North Carolina","Ocean Isle, Brunswick County","","male","M","12","Shark involvement unconfirmed","N","11h45","Shark involvement not confirmed","C. Creswell, GSAF","Yes","11",TRUE,"Day","83","0.01",29.89,12,74
+"16","2013-07-11","New","2013.07.11",2013,"Unprovoked","USA","North Carolina","Holden Beach. Brunswick County","Wading","Barbara Corey","F","63","Right foot bitten","N","15h20","","C. Creswell, GSAF, WWAY-TV, 7/12/2013","Yes","15",TRUE,"Day","78","0.12",29.98,9.9,73
+"17","2014-07-12","Full","2014.07.12",2014,"Unprovoked","USA","North Carolina","Masonboro Island, New Hanover County","Body surfing","Carson Jewell","M","","Lacerations to hand and wrist","N","","","C. Creswell, GSAF","Yes","",FALSE,"0","79","0",30.18,4.9,71
+"18","2014-07-27","New","2014.07.27",2014,"Unprovoked","USA","North Carolina","Sunset Beach, Brunswick County","Swimming","male","M","Teen","Left foot bitten","N","","Possibly juvenile tiger shark","C. Creswell, GSAF","Yes","",FALSE,"0","82","0",29.9,9.3,78
+"19","2014-08-24","New","2014.08.24",2014,"Unprovoked","USA","North Carolina","Off Masonboro Island, New Hanover County","Kite boarding","Miller Diggs","","","Laceration to left foot","N","","4' shark","C. Creswell, GSAF; WWAY, 8/24/2014","Yes","",FALSE,"0","76","0.01",29.96,12.9,66
+"20","2014-08-27","New","2014.08.27.b",2014,"Unprovoked","USA","North Carolina","Figure Eight Island,  New Hanover County","Surfing","Hunter Anderson","M","29","Laceration to left hand","N","","4' to 6' shark","C. Creswell, GSAF","Yes","",FALSE,"0","78","0",29.94,10.6,72
+"21","2015-06-11","New","2015.06.11",2015,"Unprovoked","USA","North Carolina","Ocean Isle, Brunswick County","Boogie boarding","girl","F","13","Minor lacerations to foot","N","12h45","4' shark","C. Creswell, GSAF","Yes","12",TRUE,"Day","79","0",30.01,9.7,73
+"22","2015-06-14","New","2015.06.14.a",2015,"Unprovoked","USA","North Carolina","Oak Island, Brunswick County","Wading","Kiersten Yow","F","12","Left arm amputated at elbow & severe injury to leg","N","16h12","Bull shark","C. Creswell, GSAF","Yes","16",TRUE,"Evening","82","0",30.02,3.5,76
+"23","2015-06-14","New","2015.06.14.b",2015,"Unprovoked","USA","North Carolina","Oak Island, Brunswick County","Wading","Hunter Treschel","M","16","Arm amputated below shoulder","N","17h51","Bull shark","C. Creswell, GSAF","Yes","17",TRUE,"Evening","82","0",30.02,3.5,76
+"24","2015-06-24","First quarter","2015.06.24.b",2015,"Unprovoked","USA","North Carolina","Surf City","Swimming","Brady Noyes","M","6","Minor injury to foot","N","12h25","Sandtiger shark","C. Creswell, GSAF","Yes","12",TRUE,"Day","80","0.3",30.02,9.7,74
+"25","2015-06-25","Waxing gibbous","2015.06.25",2015,"Unprovoked","USA","North Carolina","Avon, Hatteras Island, Outer Banks, Dare County","Body surfing?","Patrick Thornton","M","47","Multiple lacerations to back","N","11h41","","C. Creswell, GSAF","Yes","11",TRUE,"Day","80","0",30.05,10.4,71
+"26","2015-06-27","Full","2015.06.27.b",2015,"Unprovoked","USA","North Carolina","Rodanthe, Dare County","Swimming","John Cole","M","18","Injuries to right calf, buttock and both hands","N","16h00","Bull shark","C. Creswell, WRAL, 6/27/2015","Yes","16",TRUE,"Evening","80","0.05",29.9,16.6,74
+"27","2015-07-01","Full","2015.07.01",2015,"Unprovoked","USA","North Carolina","Ocracoke, Lifeguard Beach, National Park Service, Hyde County","Swimming","Andrew Costello","M","68","Injuries to torso, hip, lower leg & hands","N","12h10","6' to 7' shark","C. Creswell, GSAF","Yes","12",TRUE,"Day","77","0.15",29.93,13.6,73
+"28","2015-07-04","Waning gibbous","2015.07.04.a",2015,"Unprovoked","USA","North Carolina","Off Surf City, Pender County","","a marine","M","32","Lacerations to right hand & forearm","N","Evening","","C. Creswell, GSAF","Yes","Ev",FALSE,"Evening","80","T",29.96,14.4,72
+"29","2016-06-11","First quarter","2016.06.11",2016,"Unprovoked","USA","North Carolina","Atlantic Beach, Carteret County","Standing","Dillon Bowen","M","19","Laceration to wrist","N","15h00","3' shark","C. Creswell, GSAF","Yes","15",TRUE,"Day","76","0",30.08,12,NA
+"30","2016-06-25","Third quarter","2016.06.25",2016,"Unprovoked","USA","North Carolina","Atlantic Beach, Carteret County","Surfing","male","M","11","Foot injured","N","14h34","","C. Creswell, GSAF","Yes","14",TRUE,"Day","76","0",30.05,6.8,NA
+"31","2010-06-25","Full","2010.06.25.b",2010,"Unprovoked","USA","South Carolina","Fripp Island","Boogie Boarding","Ella Morris","F","6","Laceration to leg","N","","","C. Creswell, GSAF","Yes","0",TRUE,"Dawn","86","T",29.98,11.4,77
+"32","2010-07-19","First quarter","2010.07.19",2010,"Unprovoked","USA","South Carolina","Myrtle Beach","Swimming","Josh Myers","M","10","Minor lacerations to left calf","N","10h35","Possibly a small blacktip shark","C. Creswell, GSAF","Yes","10",TRUE,"Day","84","0",30.02,14.8,76
+"33","2010-07-25","Full","2010.07.25",2010,"Unprovoked","USA","South Carolina","Isle of Palms, Charleston County","Standing","Alex Stamm","M","16","Lacerations to right lower leg","N","","4' shark","C. Creswell, GSAF","Yes","0",TRUE,"Dawn","86","0",30,13,79
+"34","2011-08-15","Full","2011.08.15",2011,"Invalid","USA","South Carolina","Myrtle Beach, Horry County","Playing in the surf","Rudy Varney ","M","7","Puncture wounds to foot","N","","Shark involvement not confirmed","C. Creswell; Carolina Live, 8/15/2011","Yes","0",TRUE,"Dawn","78","0",29.74,3.8,NA
+"35","2011-09-24","New","2011.09.24.a",2011,"Unprovoked","USA","South Carolina","North Myrtle Beach, Horry County","Jumping in the waves","Isaac O'Hara, ","M","5","Laceration to left thigh","N","10h00","","Sun News, 9/26/2011","Yes","10",TRUE,"Day","78","0.07",29.92,4.7,NA
+"36","2012-06-02","Full","2012.06.02.a",2012,"Unprovoked","USA","South Carolina","Myrtle Beach, Horry County","Boogie Boarding","Ryan Orellana-Maczynski ","M","25","Severe laceration to foot","N","19h45","","C. Creswell","Yes","19",TRUE,"Evening","72","0",29.78,4.9,62
+"37","2012-06-14","New","2012.06.14.a",2012,"Unprovoked","USA","South Carolina","Myrtle Beach, Horry County","Swimming","Jordon Garosalo","M","16","Laceration to right foot","N","13h20","Blacktip shark ","C. Creswell","Yes","13",TRUE,"Day","75","0.08",29.99,9,61
+"38","2012-06-14","New","2012.06.14.b",2012,"Unprovoked","USA","South Carolina","Myrtle Beach, Horry County","Swimming","male","M",NA,"Calf bitten","N","Afternoon","small blacktip shark?","C. Creswell","Yes","#VALUE!",FALSE,"FALSE","75","0.08",29.99,9,61
+"39","2012-06-14","New","2012.06.14.c",2012,"Unprovoked","USA","South Carolina","Myrtle Beach, Horry County","Swimming","male","M",NA,"Minor injury","N","Afternoon","Shark involvement not confirmed","C. Creswell","Yes","#VALUE!",FALSE,"FALSE","75","0.08",29.99,9,61
+"40","2012-06-14","New","2012.06.14.d",2012,"Unprovoked","USA","South Carolina","Myrtle Beach, Horry County","Swimming","female","F","18","Foot & hand bitten","N","Afternoon","small blacktip shark?","C. Creswell","Yes","#VALUE!",FALSE,"FALSE","75","0.08",29.99,9,61
+"41","2012-06-19","New","2012.06.19",2012,"Invalid","USA","South Carolina","Myrtle Beach, Horry County","Standing","Matthew Breen","M","16","Laceration to foot. Injured by a stingray, not a shark","N","","No shark involvement","C. Creswell","Yes","0",TRUE,"Dawn","73","0",30.12,5.2,65
+"42","2013-06-14","First quarter","2013.06.14.R",2013,"Unprovoked","USA","South Carolina","Myrtle Beach, Horry County","Boogie Boarding","Allison Foreman","F","10","Puncture marks to hand","N","Afternoon","4' to 5' shark","WMBF News, 6/14/2013","Yes","#VALUE!",FALSE,"FALSE","74","0.01",29.8,5.9,62
+"43","2013-06-25","Full","2013.06.25.a",2013,"Unprovoked","USA","South Carolina","Kiawah Island, Charleston County","Swimming","Joshua Watson","M","14","Bitten on lower right leg, reported as a minor injury","N","12h45","4' to 5' shark","C. Creswell, GSAF","Yes","12",TRUE,"Day","80","T",30.09,10.4,74
+"44","2013-07-30","Third quarter","2013.07.30",2013,"Unprovoked","USA","South Carolina","Isle of Palms, Charleston County","Swimming","Ty Bretz","M","32","Foot bitten","N","","","A. Brenneka, Shark Attack Survivors;      C. Creswell, GSAF","Yes","0",TRUE,"Dawn","78","0.01",30.11,3.5,74
+"45","2013-08-11","Waxing crescent","2013.08.11",2013,"Unprovoked","USA","South Carolina","Folly Beach","Surfing","Tyson Royston","M","10","No injury, shark became entangled in his surfboard leash","N","17h30","Bull shark, 8'","Post and Courier, 8/11/2013","Yes","17",TRUE,"Evening","84","0",30.05,9.2,76
+"46","2013-09-08","New","2013.09.08",2013,"Unprovoked","USA","South Carolina","St. Helena Island, Beaufort County","","female","F",NA,"No details","UNKNOWN","","","WIS-TV, 9/9/2013","Yes","0",TRUE,"Dawn","74","0",29.92,5.7,68
+"47","2014-05-06","First quarter","2014.05.06",2014,"Unprovoked","USA","South Carolina","Coligny Beach, Hilton Head, Beaufort County","Swimming","Kimberly Popp","F","40","Lacerations to left foot","N","15h00","4' to 5' shark","The Island Packet, 5/7/2014","Yes","15",TRUE,"Day","76","0",29.86,7.9,60
+"48","2014-07-03","First quarter","2014.07.03",2014,"Unprovoked","USA","South Carolina","Isle of Palms, Charleston County","Body surfing","Christian Fairbourne","M","19","Right hand bitten","N","18h15-18h30","4' to 5' shark","C. Creswell, GSAF Live5News, 7/3/2014","Yes","18",TRUE,"Evening","76","2.25",29.82,12.5,72
+"49","2014-08-06","Full","2014.08.06",2014,"Unprovoked","USA","South Carolina","Folly Beach, Charleston County","Boogie boarding","Riley Harris","M","10","Lacerations to right leg & foot","N","14h00","4' tp 5' shark","C. Creswell, GSAF;        WCSC. 8/6/2014","Yes","14",TRUE,"Day","80","0",29.93,6.6,74
+"50","2014-08-27","New","2014.08.27.a",2014,"Unprovoked","USA","South Carolina","Surfside Beach, Horry  County","Standing","female","F",NA,"Heel bitten","N","15h00","","C. Creswell, GSAF","Yes","15",TRUE,"Day","77","0",29.95,5.9,65
+"51","2015-05-15","New","2015.05.15",2015,"Unprovoked","USA","South Carolina","Sullivan's Island","","male","M","30","Laceration to foot ","N","14h15","6' shark","News 2, 5/15/2015","Yes","14",TRUE,"Day","76","0.52",29.97,12.1,70
+"52","2015-06-23","First quarter","2015.06.23",2015,"Unprovoked","USA","South Carolina","St. Helena Island, Beaufort County","Standing","male","M","9","Minor injury to calf ","N","","small shark","C. Creswell, GSAF; R. Lurye, Island Packet","Yes","0",TRUE,"Dawn","79","0",29.98,8.8,71
+"53","2015-06-26","Full","2015.06.26.a",2015,"Unprovoked","USA","South Carolina","South Beach, Hunting Island State Park, Beaufort County","Standing","Lance Donahue, Jr","M","43","Puncture wounds to foot","N","11h00","4' shark","C. Creswell, GSAF; WCNC, 6/26/2015","Yes","11",TRUE,"Day","83","0",29.93,8.9,74
+"54","2015-06-30","Full","2015.06.30.a",2015,"Unprovoked","USA","South Carolina","Isle of Palms County Park, Isle of Palms, Charleston County","Playing in the water","Kysen Weakley","M","12","Shallow lacerations & puncture to lateral left leg","N","18h05","4' to 5' shark","C. Creswell, GSAF","Yes","18",TRUE,"Evening","76","0",30.02,5.3,67
+"55","2015-07-26","Full","2015.07.26.a",2015,"Invalid","USA","South Carolina","Edisto Beach, Colleton County","Floating","female","F","35","2' cut to dorsum of foot, 2 puncture wounds to sole","N","10h10","Thought to involve a 3' to 4' shark, but shark involvement not confirmed","C. Creswell, GSAF, ABC 11, 7/27/2015","Yes","10",TRUE,"Day","80","0",29.96,6.7,73
+"56","2015-08-20","First quarter","2015.08.20",2015,"Unprovoked","USA","South Carolina","Murrells Inlet, Georgetown County","Surfing","Dylan Peyton","M","15","Injuries to left calf, arm and hand","N","12h30","4' shark","C. Creswell, GSAF","Yes","12",TRUE,"Day","80","0.06",29.9,4.5,75
+"57","2015-09-03","Waning gibbous","2015.09.03",2015,"Unprovoked","USA","South Carolina","Myrtle Beach, Horry County","","Chip Wagner","M",NA,"Right foot bitten","N","16h00","4' shark?","C. Creswell, GSAF","Yes","16",TRUE,"Evening","81","0",30.02,8.8,74
+"58","2016-06-07","Waxing crescent","2016.06.07",2016,"Invalid","USA","South Carolina","Folly Beach, Charleston County","Surfing","Jack O'Neill","M","27","No injury, board damaged","N","11h30","Said to involve an 8' shark but more likely damage caused by debris","C. Creswell, GSAF","Yes","11",TRUE,"Day","81","0.07",29.64,7.6,NA
+"59","2016-06-21","Full","2016.06.21.b",2016,"Unprovoked","USA","South Carolina","North Myrtle Beach, Horry County","Floating","Jeff Schott","M","42","Lacerations and punctures to foot","N","15h25","3' to 5' shark","C. Creswell, GSAF","Yes","15",TRUE,"Day","78","0",30.06,16,NA
+"60","2016-06-27","Waning crescent","2016.06.27",2016,"Unprovoked","USA","South Carolina","Sullivan's Island","","male","M","35","Minor injury","N","16h20","3' to 4' shark","C. Creswell, GSAF","Yes","16",TRUE,"Evening","79","0",30.03,6.8,NA
+"61","2009-05-01","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.14,6.6,NA
+"62","2009-05-02","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30,8.1,NA
+"63","2009-05-03","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.96,7.3,NA
+"64","2009-05-04","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.96,6.4,NA
+"65","2009-05-05","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0.19",30,4.4,NA
+"66","2009-05-06","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.01",29.99,6.4,NA
+"67","2009-05-07","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.92,7.5,NA
+"68","2009-05-08","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.92,5.4,NA
+"69","2009-05-09","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",29.94,7.9,NA
+"70","2009-05-10","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.97,6.4,NA
+"71","2009-05-11","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74",NA,29.98,7.2,NA
+"72","2009-05-12","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"66",NA,30.11,8.4,NA
+"73","2009-05-13","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"69","0.05",30.16,8.9,NA
+"74","2009-05-14","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.05",30.12,4.8,NA
+"75","2009-05-15","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0.02",30.13,3.6,NA
+"76","2009-05-16","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.07,4.3,NA
+"77","2009-05-17","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"71","1.22",29.96,5.8,NA
+"78","2009-05-18","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"56","0.4",30.08,14.8,NA
+"79","2009-05-19","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"60","0",30.15,15.2,NA
+"80","2009-05-20","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","0",30.15,13,NA
+"81","2009-05-21","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"71","0.09",30.1,11.1,NA
+"82","2009-05-22","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.07,10,NA
+"83","2009-05-23","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74",NA,30.03,8.1,NA
+"84","2009-05-24","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0.39",29.99,3.6,NA
+"85","2009-05-25","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76",NA,29.92,3.5,NA
+"86","2009-05-26","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",29.89,4,NA
+"87","2009-05-27","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77",NA,29.85,2.8,NA
+"88","2009-05-28","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,29.81,5.3,NA
+"89","2009-05-29","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.34",29.79,6.6,NA
+"90","2009-05-30","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.81,4.4,NA
+"91","2009-05-31","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",29.87,NA,NA
+"92","2009-06-01","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.97,5.6,NA
+"93","2009-06-02","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",30.04,3.6,NA
+"94","2009-06-03","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30,3.5,NA
+"95","2009-06-04","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,NA,NA,NA
+"96","2009-06-05","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.35",29.75,7,NA
+"97","2009-06-06","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","1.18",29.85,4.6,NA
+"98","2009-06-07","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.41",29.93,4.3,NA
+"99","2009-06-08","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0.09",29.91,1.8,NA
+"100","2009-06-09","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.89,3.8,NA
+"101","2009-06-10","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.86,2.4,NA
+"102","2009-06-11","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.03",29.84,4.2,NA
+"103","2009-06-12","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.82,6.3,NA
+"104","2009-06-13","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",29.85,6.8,NA
+"105","2009-06-14","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.11",29.89,6.4,NA
+"106","2009-06-15","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.95",29.91,1.3,NA
+"107","2009-06-16","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.16",29.92,4.1,NA
+"108","2009-06-17","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,29.98,4.2,NA
+"109","2009-06-18","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.7",29.9,3.8,NA
+"110","2009-06-19","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.85,3.9,NA
+"111","2009-06-20","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.81,6.7,NA
+"112","2009-06-21","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.05",29.73,7.4,NA
+"113","2009-06-22","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.19",29.68,5.5,NA
+"114","2009-06-23","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.68,4.1,NA
+"115","2009-06-24","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,29.79,3.3,NA
+"116","2009-06-25","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.02",29.83,4.5,NA
+"117","2009-06-26","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,NA,NA,NA
+"118","2009-06-27","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.77,9.3,NA
+"119","2009-06-28","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.71,6.6,NA
+"120","2009-06-29","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86",NA,29.63,8.7,NA
+"121","2009-06-30","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",29.63,NA,NA
+"122","2009-07-01","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.73,7.6,NA
+"123","2009-07-02","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.83,7.5,NA
+"124","2009-07-03","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.01",29.91,5.5,NA
+"125","2009-07-04","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",29.97,5.9,NA
+"126","2009-07-05","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.89,6.6,NA
+"127","2009-07-06","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.1",29.79,7.2,NA
+"128","2009-07-07","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.08",29.75,6.1,NA
+"129","2009-07-08","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","1",29.81,3.6,NA
+"130","2009-07-09","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.02",29.97,5.5,NA
+"131","2009-07-10","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.14,7.4,NA
+"132","2009-07-11","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.18,4.1,NA
+"133","2009-07-12","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.08,4.5,NA
+"134","2009-07-13","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.91",29.92,5.2,NA
+"135","2009-07-14","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",NA,5,NA
+"136","2009-07-15","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.01",30.09,4.6,NA
+"137","2009-07-16","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.98,3.5,NA
+"138","2009-07-17","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,29.87,9.6,NA
+"139","2009-07-18","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.91,7.3,NA
+"140","2009-07-19","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30,3.3,NA
+"141","2009-07-20","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.98,2.4,NA
+"142","2009-07-21","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,30,4.8,NA
+"143","2009-07-23","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.92,4.9,NA
+"144","2009-07-24","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,29.91,6.2,NA
+"145","2009-07-25","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.95,6.9,NA
+"146","2009-07-26","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.98,6.5,NA
+"147","2009-07-27","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.01",29.99,6.9,NA
+"148","2009-07-28","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,29.97,6.3,NA
+"149","2009-07-29","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.01",29.97,7.9,NA
+"150","2009-07-30","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.12",30.02,6.2,NA
+"151","2009-07-31","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.28",30.04,NA,NA
+"152","2009-08-01","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,30.06,5.2,NA
+"153","2009-08-02","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.61",30,6.8,NA
+"154","2009-08-03","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,29.99,5.8,NA
+"155","2009-08-04","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30,3.9,NA
+"156","2009-08-05","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.07",29.96,3.2,NA
+"157","2009-08-06","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.06",29.94,5.7,NA
+"158","2009-08-07","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.03,3.8,NA
+"159","2009-08-08","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,30.15,4.4,NA
+"160","2009-08-09","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.17,2.3,NA
+"161","2009-08-10","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,30.09,2.3,NA
+"162","2009-08-11","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,29.97,5.3,NA
+"163","2009-08-12","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.74",29.92,5.8,NA
+"164","2009-08-13","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.34",30,2.5,NA
+"165","2009-08-14","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.2",30.05,4.6,NA
+"166","2009-08-15","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.3",30.09,3.2,NA
+"167","2009-08-16","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,30.13,4,NA
+"168","2009-08-17","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.15,4.3,NA
+"169","2009-08-18","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.01",30.1,2.8,NA
+"170","2009-08-19","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.05,3.2,NA
+"171","2009-08-20","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.03",29.99,4,NA
+"172","2009-08-21","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,29.94,4.8,NA
+"173","2009-08-22","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.05",29.84,5.5,NA
+"174","2009-08-23","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.84,5.2,NA
+"175","2009-08-24","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.97,2.1,NA
+"176","2009-08-25","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.03,4.3,NA
+"177","2009-08-26","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.05,3.2,NA
+"178","2009-08-27","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.04",30.02,3.7,NA
+"179","2009-08-28","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.1",29.9,5.1,NA
+"180","2009-08-29","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.84,5.3,NA
+"181","2009-08-30","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,29.91,3.3,NA
+"182","2009-08-31","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.2",29.96,NA,NA
+"183","2009-09-01","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.05,9,NA
+"184","2009-09-02","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,30.04,10.7,NA
+"185","2009-09-03","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.96,7.2,NA
+"186","2009-09-04","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.98,4.3,NA
+"187","2009-09-05","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,30.07,4.7,NA
+"188","2009-09-06","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.07,7.7,NA
+"189","2009-09-07","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.97,6.4,NA
+"190","2009-09-08","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.94,4.4,NA
+"191","2009-09-09","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,30,2.5,NA
+"192","2009-09-10","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,30.06,5.1,NA
+"193","2009-09-11","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.07,5.3,NA
+"194","2009-09-13","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.89,4.4,NA
+"195","2009-09-14","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.96,3.6,NA
+"196","2009-09-15","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.96,3.2,NA
+"197","2009-09-16","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,29.94,3.9,NA
+"198","2009-09-17","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,29.99,5.4,NA
+"199","2009-09-18","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.95",30.02,4.4,NA
+"200","2009-09-19","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,30.06,5.8,NA
+"201","2009-09-20","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.1,7.7,NA
+"202","2009-09-21","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.08,6.9,NA
+"203","2009-09-22","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.05,6.9,NA
+"204","2009-09-23","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.83",30.04,6.8,NA
+"205","2009-09-24","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.04,3.3,NA
+"206","2009-09-25","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,30.02,1.6,NA
+"207","2009-09-26","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.98,4.9,NA
+"208","2009-09-27","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","1.24",29.79,6.9,NA
+"209","2009-09-28","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.79,8.9,NA
+"210","2009-09-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.85,7.9,NA
+"211","2009-09-30","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.94,NA,NA
+"212","2010-05-01","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.96,7.9,NA
+"213","2010-05-02","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.98,10,NA
+"214","2010-05-03","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.97,5.7,NA
+"215","2010-05-04","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"69","0.55",29.92,4.2,NA
+"216","2010-05-05","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",29.92,2.4,NA
+"217","2010-05-06","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.92,3.3,NA
+"218","2010-05-07","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,29.94,3.6,NA
+"219","2010-05-08","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.89,10.5,NA
+"220","2010-05-09","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"68","0",30.09,6.7,NA
+"221","2010-05-10","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"65","0",30.21,7.6,NA
+"222","2010-05-11","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.22,8.7,NA
+"223","2010-05-12","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.18,6.4,NA
+"224","2010-05-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0",30.19,3.7,NA
+"225","2010-05-14","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74",NA,30.23,4,NA
+"226","2010-05-15","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.16,4.3,NA
+"227","2010-05-16","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.04,5.7,NA
+"228","2010-05-17","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.71",29.94,4.2,NA
+"229","2010-05-18","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.84,6.2,NA
+"230","2010-05-19","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.84,5.7,NA
+"231","2010-05-20","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",29.95,4.3,NA
+"232","2010-05-21","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76",NA,30.05,5.2,NA
+"233","2010-05-22","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0.11",30.02,3.3,NA
+"234","2010-05-23","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","1.34",30,3.8,NA
+"235","2010-05-24","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0.53",29.96,6.5,NA
+"236","2010-05-25","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0.06",29.98,9.4,NA
+"237","2010-05-26","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",29.85,7.2,NA
+"238","2010-05-27","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.77,3.9,NA
+"239","2010-05-28","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.78,4.5,NA
+"240","2010-05-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",29.87,6.7,NA
+"241","2010-05-30","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0.03",29.96,5.8,NA
+"242","2010-05-31","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.1",30.01,NA,NA
+"243","2010-06-01","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",29.94,4.5,NA
+"244","2010-06-02","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.06",29.86,4.8,NA
+"245","2010-06-03","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.32",29.85,4.1,NA
+"246","2010-06-04","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.05",29.88,3,NA
+"247","2010-06-05","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.86",29.91,7.1,NA
+"248","2010-06-06","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.02",29.84,9,NA
+"249","2010-06-07","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.86,6.3,NA
+"250","2010-06-08","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78",NA,30.03,2.6,NA
+"251","2010-06-09","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.07,5.5,NA
+"252","2010-06-10","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.99,6.3,NA
+"253","2010-06-11","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30.01,2.7,NA
+"254","2010-06-12","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30.06,3.2,NA
+"255","2010-06-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"87","0",29.99,6.3,NA
+"256","2010-06-14","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"89","0",29.89,4.4,NA
+"257","2010-06-15","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"90",NA,29.93,3.1,NA
+"258","2010-06-16","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30.02,3.2,NA
+"259","2010-06-17","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.97,4.7,NA
+"260","2010-06-18","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86",NA,29.97,3.5,NA
+"261","2010-06-19","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.35",30,3.5,NA
+"262","2010-06-20","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.97,3.1,NA
+"263","2010-06-21","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,30.02,2.8,NA
+"264","2010-06-22","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30.1,4.1,NA
+"265","2010-06-23","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30.1,4.8,NA
+"266","2010-06-24","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",30.01,6.5,NA
+"267","2010-06-26","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.95,3.7,NA
+"268","2010-06-27","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86",NA,29.86,5.9,NA
+"269","2010-06-28","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.02",29.87,5.9,NA
+"270","2010-06-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.95,5.7,NA
+"271","2010-06-30","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",30.02,NA,NA
+"272","2010-07-01","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.42",30.06,2.7,NA
+"273","2010-07-02","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",30.1,8.5,NA
+"274","2010-07-03","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0",30.11,7.3,NA
+"275","2010-07-04","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.08,4.1,NA
+"276","2010-07-05","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.04,4.6,NA
+"277","2010-07-06","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.05,3.7,NA
+"278","2010-07-07","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81",NA,30.02,3.2,NA
+"279","2010-07-08","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.92,5.5,NA
+"280","2010-07-09","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.86,4.2,NA
+"281","2010-07-10","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.48",29.86,8.1,NA
+"282","2010-07-11","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",29.86,4.1,NA
+"283","2010-07-12","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.06",29.85,4.2,NA
+"284","2010-07-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.17",29.91,4.4,NA
+"285","2010-07-14","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.55",29.97,3.8,NA
+"286","2010-07-15","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83",NA,30,5.4,NA
+"287","2010-07-16","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30.05,6.6,NA
+"288","2010-07-18","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30.07,5.4,NA
+"289","2010-07-20","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",30.09,6.7,NA
+"290","2010-07-21","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88",NA,30.11,5.9,NA
+"291","2010-07-22","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.05,NA,NA
+"292","2010-07-23","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.05,4.8,NA
+"293","2010-07-24","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30.06,4.5,NA
+"294","2010-07-26","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"90","0.09",29.99,5.2,NA
+"295","2010-07-27","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.15",30.01,4.6,NA
+"296","2010-07-28","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",30.03,2.2,NA
+"297","2010-07-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88",NA,29.94,3.2,NA
+"298","2010-07-30","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"90","0",29.83,6.3,NA
+"299","2010-07-31","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.11",29.84,NA,NA
+"300","2010-08-01","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.13",29.83,3.5,NA
+"301","2010-08-02","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0.01",29.96,5.3,NA
+"302","2010-08-03","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85",NA,30.03,3,NA
+"303","2010-08-04","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,29.86,NA,NA
+"304","2010-08-05","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84s","0",29.9,5.5,NA
+"305","2010-08-06","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.68",29.84,6.5,NA
+"306","2010-08-08","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.9,4.5,NA
+"307","2010-08-09","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.93,7.1,NA
+"308","2010-08-10","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.97,3.8,NA
+"309","2010-08-11","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.93,4.5,NA
+"310","2010-08-12","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.84,6.8,NA
+"311","2010-08-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","1.6",29.8,7.2,NA
+"312","2010-08-14","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","3.5",29.91,4.1,NA
+"313","2010-08-15","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","2.63",29.91,2.3,NA
+"314","2010-08-16","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",29.92,2.5,NA
+"315","2010-08-17","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.98,2.3,NA
+"316","2010-08-18","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.99,3.1,NA
+"317","2010-08-19","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.92,6.3,NA
+"318","2010-08-20","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","1.37",29.88,5,NA
+"319","2010-08-21","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,NA,NA,NA
+"320","2010-08-22","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,NA,NA,NA
+"321","2010-08-23","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.01",29.81,2.7,NA
+"322","2010-08-24","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.77,3.1,NA
+"323","2010-08-25","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.04",29.86,6.3,NA
+"324","2010-08-26","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.46",29.94,4,NA
+"325","2010-08-27","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.98,4.6,NA
+"326","2010-08-28","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.01",30.05,7.8,NA
+"327","2010-08-29","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.14,8.3,NA
+"328","2010-08-30","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.19,6.7,NA
+"329","2010-08-31","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.01",30.13,NA,NA
+"330","2010-09-01","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,30.01,3.9,NA
+"331","2010-09-02","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.89,6.6,NA
+"332","2010-09-03","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.86,7.8,NA
+"333","2010-09-04","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.86,6.9,NA
+"334","2010-09-05","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.01",29.92,1.4,NA
+"335","2010-09-06","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.04,3.5,NA
+"336","2010-09-07","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",30.13,3.5,NA
+"337","2010-09-08","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.03,3.4,NA
+"338","2010-09-09","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.9,5.8,NA
+"339","2010-09-10","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,29.87,4.3,NA
+"340","2010-09-11","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,29.9,3,NA
+"341","2010-09-12","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81",NA,29.9,3.3,NA
+"342","2010-09-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",29.98,5.4,NA
+"343","2010-09-14","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76",NA,30.03,2.3,NA
+"344","2010-09-15","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.07,1.9,NA
+"345","2010-09-16","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.04,2.8,NA
+"346","2010-09-17","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78",NA,29.99,2.3,NA
+"347","2010-09-18","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",30.03,2.9,NA
+"348","2010-09-19","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.04,5.2,NA
+"349","2010-09-20","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81",NA,29.95,3.5,NA
+"350","2010-09-21","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.05,4,NA
+"351","2010-09-22","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.13,2.7,NA
+"352","2010-09-23","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.15,2.9,NA
+"353","2010-09-24","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.13,2.4,NA
+"354","2010-09-25","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,29.98,4.2,NA
+"355","2010-09-26","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","1.01",29.84,5.8,NA
+"356","2010-09-27","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","1.03",29.73,4.6,NA
+"357","2010-09-28","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"71","0.19",29.73,3.2,NA
+"358","2010-09-29","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","0.78",29.65,8.1,NA
+"359","2010-09-30","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"71",NA,29.52,NA,NA
+"360","2011-05-01","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"68","0",30.14,5.3,NA
+"361","2011-05-02","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72",NA,30.17,4.4,NA
+"362","2011-05-03","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"73","0",30.1,6.6,NA
+"363","2011-05-04","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"68","0",30.08,9.9,NA
+"364","2011-05-05","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"61","0",30.19,7.2,NA
+"365","2011-05-06","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"65","0.11",29.99,3.5,NA
+"366","2011-05-07","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70",NA,29.95,3.5,NA
+"367","2011-05-08","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",29.88,6.3,NA
+"368","2011-05-09","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",29.89,5.6,NA
+"369","2011-05-10","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.89,5.4,NA
+"370","2011-05-11","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.91,7.1,NA
+"371","2011-05-12","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",29.97,4.3,NA
+"372","2011-05-13","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.82,4.9,NA
+"373","2011-05-14","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76",NA,29.7,7.3,NA
+"374","2011-05-15","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",29.62,9.2,NA
+"375","2011-05-16","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"64",NA,29.64,8.4,NA
+"376","2011-05-17","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"68","0",29.62,9.1,NA
+"377","2011-05-18","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"66","0",29.78,6,NA
+"378","2011-05-19","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","0",29.99,4.7,NA
+"379","2011-05-20","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30,3.1,NA
+"380","2011-05-21","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.96,3.3,NA
+"381","2011-05-22","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.98,3.8,NA
+"382","2011-05-23","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.97,6.7,NA
+"383","2011-05-24","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.94,5.4,NA
+"384","2011-05-25","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.93,6.8,NA
+"385","2011-05-26","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.93,8.8,NA
+"386","2011-05-27","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.31",29.9,7.8,NA
+"387","2011-05-28","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.01",29.91,5.8,NA
+"388","2011-05-29","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.06,3.2,NA
+"389","2011-05-30","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.14,2.9,NA
+"390","2011-05-31","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.13,NA,NA
+"391","2011-06-01","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.06,6.7,NA
+"392","2011-06-02","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81",NA,30.03,4.2,NA
+"393","2011-06-03","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,30.01,4.1,NA
+"394","2011-06-04","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.06,4.9,NA
+"395","2011-06-05","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.96,5.8,NA
+"396","2011-06-06","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.01",29.9,6.8,NA
+"397","2011-06-07","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.99,3.9,NA
+"398","2011-06-08","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.02,4.7,NA
+"399","2011-06-09","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79",NA,30,3.8,NA
+"400","2011-06-10","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.95,3.4,NA
+"401","2011-06-11","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77",NA,29.92,3,NA
+"402","2011-06-12","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.89,4.5,NA
+"403","2011-06-13","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.84,5,NA
+"404","2011-06-14","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",29.81,4.8,NA
+"405","2011-06-15","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0.44",29.85,4.8,NA
+"406","2011-06-16","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.5",29.89,6.7,NA
+"407","2011-06-17","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,NA,NA,NA,NA,NA
+"408","2011-06-18","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.12",29.95,7.7,NA
+"409","2011-06-19","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.91,7.8,NA
+"410","2011-06-20","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"89","0",29.87,8.8,NA
+"411","2011-06-21","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"90","0",29.91,5.6,NA
+"412","2011-06-22","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.94,5.4,NA
+"413","2011-06-23","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,NA,NA,NA,NA,NA
+"414","2011-06-24","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84s",NA,NA,NA,NA
+"415","2011-06-25","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.89,3.7,NA
+"416","2011-06-26","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.93,4.6,NA
+"417","2011-06-27","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.98,5.6,NA
+"418","2011-06-28","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.05",29.98,6.5,NA
+"419","2011-06-29","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.94,6.3,NA
+"420","2011-06-30","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.62",29.94,NA,NA
+"421","2011-07-01","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",29.96,2.3,NA
+"422","2011-07-02","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81",NA,30.02,3.5,NA
+"423","2011-07-03","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",30,4.9,NA
+"424","2011-07-04","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.96,5.4,NA
+"425","2011-07-05","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",29.94,4,NA
+"426","2011-07-06","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.04",29.95,4.9,NA
+"427","2011-07-07","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.92,2.1,NA
+"428","2011-07-08","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.02",29.84,6.9,NA
+"429","2011-07-09","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","1.12",29.88,6.5,NA
+"430","2011-07-10","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.26",29.96,1.8,NA
+"431","2011-07-11","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.98,2.8,NA
+"432","2011-07-12","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86",NA,29.91,4.4,NA
+"433","2011-07-13","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"90","0",29.83,5.2,NA
+"434","2011-07-14","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","1.69",29.82,4.4,NA
+"435","2011-07-15","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","3.76",29.91,9.2,NA
+"436","2011-07-16","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.01,9.6,NA
+"437","2011-07-17","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",30.1,6.9,NA
+"438","2011-07-18","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",30.05,4.1,NA
+"439","2011-07-20","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.85,5.4,NA
+"440","2011-07-21","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.88,6.1,NA
+"441","2011-07-22","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.97,6.3,NA
+"442","2011-07-23","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.05,6.3,NA
+"443","2011-07-24","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30.03,6.4,NA
+"444","2011-07-25","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.9,8.3,NA
+"445","2011-07-26","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0.72",29.82,6.8,NA
+"446","2011-07-27","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.05",29.93,4.9,NA
+"447","2011-07-28","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,30.04,4.3,NA
+"448","2011-07-29","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30.02,7.2,NA
+"449","2011-07-30","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.95,4.1,NA
+"450","2011-07-31","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"87","0.15",29.95,NA,NA
+"451","2011-08-01","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.93,4,NA
+"452","2011-08-02","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.86,2.9,NA
+"453","2011-08-03","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88",NA,29.8,6.9,NA
+"454","2011-08-04","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"90","0",29.8,6.5,NA
+"455","2011-08-05","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","1.11",29.89,5.3,NA
+"456","2011-08-06","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.8",29.93,3.6,NA
+"457","2011-08-07","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.84,6.4,NA
+"458","2011-08-08","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0.04",29.76,8.2,NA
+"459","2011-08-09","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.1",29.75,7.9,NA
+"460","2011-08-10","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.15",29.73,3.7,NA
+"461","2011-08-12","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.01",29.87,6.2,NA
+"462","2011-08-13","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.06",29.93,3.1,NA
+"463","2011-08-14","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","1.15",29.81,4.9,NA
+"464","2011-08-16","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.9,4.9,NA
+"465","2011-08-18","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.24",29.97,3.5,NA
+"466","2011-08-19","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.9,3.3,NA
+"467","2011-08-20","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.94,2.1,NA
+"468","2011-08-21","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.97,5.6,NA
+"469","2011-08-22","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.9,5.3,NA
+"470","2011-08-23","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.9,5,NA
+"471","2011-08-25","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.02",29.9,6.7,NA
+"472","2011-08-26","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.54",29.71,13.5,NA
+"473","2011-08-27","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.57,8.3,NA
+"474","2011-08-28","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.62,3.8,NA
+"475","2011-08-29","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.75,3.9,NA
+"476","2011-08-30","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.92,7,NA
+"477","2011-08-31","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.06,NA,NA
+"478","2011-09-01","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,30.08,2.7,NA
+"479","2011-09-02","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30,2.3,NA
+"480","2011-09-03","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.94,2.5,NA
+"481","2011-09-04","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.04",29.89,3.7,NA
+"482","2011-09-05","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.14",29.79,6.9,NA
+"483","2011-09-06","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0.05",29.73,9.4,NA
+"484","2011-09-07","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",29.88,3.3,NA
+"485","2011-09-08","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",29.87,4.3,NA
+"486","2011-09-09","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"73","0",29.88,6,NA
+"487","2011-09-10","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",29.94,3.2,NA
+"488","2011-09-11","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0.02",30,3.2,NA
+"489","2011-09-12","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.04",30,2.5,NA
+"490","2011-09-13","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.95,2.3,NA
+"491","2011-09-14","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.93,2.4,NA
+"492","2011-09-15","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.03",29.89,4.5,NA
+"493","2011-09-16","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",30.06,11.2,NA
+"494","2011-09-17","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"66","0",30.15,9.6,NA
+"495","2011-09-18","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70s","0",30.18,9.4,NA
+"496","2011-09-19","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72",NA,30.09,7.5,NA
+"497","2011-09-20","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76",NA,30.01,3.8,NA
+"498","2011-09-21","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.59",30.02,2.5,NA
+"499","2011-09-22","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.04",30.05,4.5,NA
+"500","2011-09-23","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","1.96",29.94,3.5,NA
+"501","2011-09-25","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",29.93,NA,NA
+"502","2011-09-26","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0.02",29.91,NA,NA
+"503","2011-09-27","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.88,3.7,NA
+"504","2011-09-28","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.42",29.84,2.5,NA
+"505","2011-09-29","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.81,2.6,NA
+"506","2011-09-30","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",29.75,NA,NA
+"507","2012-05-01","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74",NA,30.11,4.2,NA
+"508","2012-05-02","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75",NA,30.1,3.2,NA
+"509","2012-05-03","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74",NA,30.1,2.7,NA
+"510","2012-05-04","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",30.03,3.5,NA
+"511","2012-05-05","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.02",29.89,7.3,NA
+"512","2012-05-06","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.02",29.87,7.1,NA
+"513","2012-05-07","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0.15",29.93,7.7,NA
+"514","2012-05-08","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76",NA,29.9,5.1,NA
+"515","2012-05-09","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","2.54",29.76,3.8,NA
+"516","2012-05-10","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"71",NA,29.8,5.2,NA
+"517","2012-05-11","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","0",30.03,4.4,NA
+"518","2012-05-12","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.21,7.6,NA
+"519","2012-05-13","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0.08",30.13,5.8,NA
+"520","2012-05-14","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.61",29.97,5.5,NA
+"521","2012-05-15","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",29.93,4.6,NA
+"522","2012-05-16","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",29.91,2.6,NA
+"523","2012-05-17","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0.75",29.88,4.5,NA
+"524","2012-05-18","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70",NA,29.94,9.5,NA
+"525","2012-05-19","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","0",30,8.8,NA
+"526","2012-05-20","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74",NA,29.97,10.1,NA
+"527","2012-05-21","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0",29.93,5.5,NA
+"528","2012-05-22","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0.2",29.84,4.1,NA
+"529","2012-05-23","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",29.84,4.6,NA
+"530","2012-05-24","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.01",29.92,4.5,NA
+"531","2012-05-25","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30,5.8,NA
+"532","2012-05-26","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,30,7.9,NA
+"533","2012-05-27","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.18",29.94,13.7,NA
+"534","2012-05-28","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.3",29.92,11.9,NA
+"535","2012-05-29","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.98",29.83,10.1,NA
+"536","2012-05-30","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.04",29.7,8.9,NA
+"537","2012-06-01","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0.02",29.81,5.5,NA
+"538","2012-06-03","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",29.91,6.7,NA
+"539","2012-06-04","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.2",29.78,7.3,NA
+"540","2012-06-05","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0.03",29.75,5.5,NA
+"541","2012-06-06","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0.56",29.82,6,NA
+"542","2012-06-07","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",29.96,6.8,NA
+"543","2012-06-08","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",29.98,5,NA
+"544","2012-06-09","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.03,4.7,NA
+"545","2012-06-10","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.85",30.05,5.5,NA
+"546","2012-06-11","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","1.05",30.08,6.4,NA
+"547","2012-06-12","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0.17",29.95,6.8,NA
+"548","2012-06-13","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.87,3,NA
+"549","2012-06-15","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.07,8.1,NA
+"550","2012-06-16","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0",30.11,6.8,NA
+"551","2012-06-17","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.06,4.6,NA
+"552","2012-06-20","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.11,4.3,NA
+"553","2012-06-21","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.01,3.1,NA
+"554","2012-06-22","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",29.9,2.7,NA
+"555","2012-06-23","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,29.91,2.9,NA
+"556","2012-06-24","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.22",29.92,3.1,NA
+"557","2012-06-25","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0.02",29.78,4.7,NA
+"558","2012-06-26","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0.12",29.7,9.8,NA
+"559","2012-06-27","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74",NA,29.85,9,NA
+"560","2012-06-28","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.98,3.8,NA
+"561","2012-06-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.86,6.4,NA
+"562","2012-06-30","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.83,NA,NA
+"563","2012-07-01","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.04",29.91,5.8,NA
+"564","2012-07-02","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.01,4.8,NA
+"565","2012-07-03","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"87","0",29.96,3.9,NA
+"566","2012-07-04","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",29.97,4.8,NA
+"567","2012-07-05","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"87","0",29.93,6,NA
+"568","2012-07-06","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.93,5.2,NA
+"569","2012-07-07","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.99,6.1,NA
+"570","2012-07-09","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"90","0",29.92,8.9,NA
+"571","2012-07-10","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85",NA,29.93,5.7,NA
+"572","2012-07-11","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30,3.2,NA
+"573","2012-07-12","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83",NA,30.03,5.1,NA
+"574","2012-07-13","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.06",30.06,5.5,NA
+"575","2012-07-14","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,30.11,4.6,NA
+"576","2012-07-15","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.02",30.11,3.1,NA
+"577","2012-07-16","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.02,2.1,NA
+"578","2012-07-17","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.94,2.8,NA
+"579","2012-07-18","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",29.97,4.7,NA
+"580","2012-07-19","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",30.02,8.6,NA
+"581","2012-07-20","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.01",30,10.5,NA
+"582","2012-07-21","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30.03,7.5,NA
+"583","2012-07-22","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"87","0",30.12,3.6,NA
+"584","2012-07-23","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30.13,4,NA
+"585","2012-07-25","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.91,4.1,NA
+"586","2012-07-26","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.89,5.8,NA
+"587","2012-07-27","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88",NA,29.92,6.7,NA
+"588","2012-07-28","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86",NA,29.96,6.6,NA
+"589","2012-07-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88",NA,29.93,5.4,NA
+"590","2012-07-30","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0.33",29.91,3.1,NA
+"591","2012-07-31","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.02",29.91,NA,NA
+"592","2012-08-01","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.2",29.86,3.9,NA
+"593","2012-08-02","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.88,3.4,NA
+"594","2012-08-03","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.97,4,NA
+"595","2012-08-04","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",30.07,5.7,NA
+"596","2012-08-05","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.16",30.1,4.4,NA
+"597","2012-08-06","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.01",30.06,3,NA
+"598","2012-08-07","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.41",29.98,2.3,NA
+"599","2012-08-08","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.04",29.96,1.6,NA
+"600","2012-08-09","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.93,2.9,NA
+"601","2012-08-10","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.88,8.5,NA
+"602","2012-08-11","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.07",29.89,6.7,NA
+"603","2012-08-12","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.02",29.94,3.9,NA
+"604","2012-08-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.97,3.1,NA
+"605","2012-08-14","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.93,5.2,NA
+"606","2012-08-15","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.91,7.4,NA
+"607","2012-08-16","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.96,2.9,NA
+"608","2012-08-17","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.91,2.8,NA
+"609","2012-08-18","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.84,4.7,NA
+"610","2012-08-19","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.16",29.85,5.6,NA
+"611","2012-08-20","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.87,6.8,NA
+"612","2012-08-21","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.03",29.95,2.3,NA
+"613","2012-08-22","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",30,3.3,NA
+"614","2012-08-23","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.17",30.03,4.1,NA
+"615","2012-08-24","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78",NA,30.03,6.9,NA
+"616","2012-08-25","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76",NA,30.06,4.8,NA
+"617","2012-08-26","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",30.06,6.3,NA
+"618","2012-08-27","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81",NA,29.99,7,NA
+"619","2012-08-28","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","1.93",29.95,3.3,NA
+"620","2012-08-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","1.44",29.94,3.4,NA
+"621","2012-08-30","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.02",30.03,1.7,NA
+"622","2012-08-31","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.14,NA,NA
+"623","2012-09-01","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30.09,3.3,NA
+"624","2012-09-02","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30,4,NA
+"625","2012-09-03","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.97,4.6,NA
+"626","2012-09-04","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",29.94,5.2,NA
+"627","2012-09-05","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,29.92,3.6,NA
+"628","2012-09-06","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.92,4.2,NA
+"629","2012-09-07","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.88,4.6,NA
+"630","2012-09-08","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.33",29.8,8.7,NA
+"631","2012-09-09","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76",NA,29.82,6.8,NA
+"632","2012-09-10","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74",NA,30.01,3.6,NA
+"633","2012-09-11","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.16,7.3,NA
+"634","2012-09-12","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.21,7.3,NA
+"635","2012-09-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.18,7.8,NA
+"636","2012-09-14","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.12,5,NA
+"637","2012-09-15","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.08,2.9,NA
+"638","2012-09-16","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77",NA,30.05,2.3,NA
+"639","2012-09-17","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77",NA,29.98,4.1,NA
+"640","2012-09-18","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.8",29.81,10,NA
+"641","2012-09-19","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.91,7.4,NA
+"642","2012-09-20","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",30.04,4.6,NA
+"643","2012-09-21","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.01,2.8,NA
+"644","2012-09-22","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",29.98,3.4,NA
+"645","2012-09-23","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0",30,5.4,NA
+"646","2012-09-24","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","0",30.07,6.7,NA
+"647","2012-09-25","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"71","0",30.15,5,NA
+"648","2012-09-26","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.13,5.6,NA
+"649","2012-09-27","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",30.11,3.3,NA
+"650","2012-09-28","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.03,2,NA
+"651","2012-09-29","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78",NA,29.92,2.6,NA
+"652","2012-09-30","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75",NA,29.83,NA,NA
+"653","2013-05-01","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"67",NA,30.09,10,NA
+"654","2013-05-02","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"68","0.01",30.08,12,NA
+"655","2013-05-03","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"66","0.02",30,12.2,NA
+"656","2013-05-04","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"63","0.11",29.89,12.7,NA
+"657","2013-05-05","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"65","1.2",29.77,7.8,NA
+"658","2013-05-06","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"64",NA,29.85,6.7,NA
+"659","2013-05-07","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"64","0.13",29.9,3.5,NA
+"660","2013-05-08","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72s",NA,NA,NA,NA
+"661","2013-05-09","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"73","0",30.04,6.7,NA
+"662","2013-05-10","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0",30.03,5.4,NA
+"663","2013-05-11","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",29.92,7.4,NA
+"664","2013-05-12","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0",29.9,10.2,NA
+"665","2013-05-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"65","0",30.04,7.7,NA
+"666","2013-05-14","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"62","0",30.16,5.6,NA
+"667","2013-05-15","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.09,8.7,NA
+"668","2013-05-16","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.02,7.5,NA
+"669","2013-05-17","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0",30.05,4.1,NA
+"670","2013-05-18","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0.12",30.08,4,NA
+"671","2013-05-19","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0.02",30.05,4,NA
+"672","2013-05-20","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.04",30.04,5.5,NA
+"673","2013-05-21","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30,3.7,NA
+"674","2013-05-22","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",29.95,3.1,NA
+"675","2013-05-23","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",29.89,7.1,NA
+"676","2013-05-24","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0",29.95,10.8,NA
+"677","2013-05-25","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"68","0",30.19,6.6,NA
+"678","2013-05-26","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","0",30.17,3.9,NA
+"679","2013-05-27","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",30.18,3.4,NA
+"680","2013-05-28","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.17,3.9,NA
+"681","2013-05-29","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.17,5.6,NA
+"682","2013-05-30","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",30.17,5.5,NA
+"683","2013-05-31","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.14,NA,NA
+"684","2013-06-01","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.08,4.7,NA
+"685","2013-06-02","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.06",29.97,5.9,NA
+"686","2013-06-03","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.88,6.7,NA
+"687","2013-06-04","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",29.94,5.3,NA
+"688","2013-06-05","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.45",29.95,4.8,NA
+"689","2013-06-06","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","2.07",29.84,5.5,NA
+"690","2013-06-07","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.32",29.65,12.5,NA
+"691","2013-06-08","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.94,6.5,NA
+"692","2013-06-09","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",30.06,4.2,NA
+"693","2013-06-10","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.77",30.04,6.2,NA
+"694","2013-06-11","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.09",29.97,9,NA
+"695","2013-06-12","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.94,6.9,NA
+"696","2013-06-13","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"87","0",29.83,10.6,NA
+"697","2013-06-15","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.04,5.1,NA
+"698","2013-06-16","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",30.08,3,NA
+"699","2013-06-17","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.08",30.01,5.1,NA
+"700","2013-06-18","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.29",29.91,7.8,NA
+"701","2013-06-19","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.41",29.93,7.4,NA
+"702","2013-06-20","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.06,8.2,NA
+"703","2013-06-21","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.11,7,NA
+"704","2013-06-22","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.1,4.2,NA
+"705","2013-06-23","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,30.11,3.2,NA
+"706","2013-06-24","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,30.15,3.5,NA
+"707","2013-06-26","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.7",30.02,4.8,NA
+"708","2013-06-27","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.89,10.4,NA
+"709","2013-06-28","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.75,11.9,NA
+"710","2013-06-29","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.18",29.7,8.9,NA
+"711","2013-06-30","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.08",29.76,NA,NA
+"712","2013-07-01","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.15",29.86,7.2,NA
+"713","2013-07-02","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.32",30.04,5.3,NA
+"714","2013-07-03","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.84",30.11,5.3,NA
+"715","2013-07-04","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.27",30.15,6.8,NA
+"716","2013-07-05","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.33",30.16,5.7,NA
+"717","2013-07-06","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.33",30.13,6.2,NA
+"718","2013-07-07","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.12,4,NA
+"719","2013-07-08","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",30.13,3.4,NA
+"720","2013-07-09","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.12,3.7,NA
+"721","2013-07-10","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",30.03,4.3,NA
+"722","2013-07-12","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78s","0.1",29.88,2.5,NA
+"723","2013-07-13","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.24",29.94,7,NA
+"724","2013-07-14","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","1.09",30.08,7.2,NA
+"725","2013-07-15","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.08",30.17,8.6,NA
+"726","2013-07-16","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.2,5.8,NA
+"727","2013-07-17","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,30.16,4.3,NA
+"728","2013-07-18","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.1,3.6,NA
+"729","2013-07-19","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.05",30.05,4.8,NA
+"730","2013-07-20","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",30.02,7.6,NA
+"731","2013-07-21","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.29",29.99,7.9,NA
+"732","2013-07-22","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.17",29.96,10.9,NA
+"733","2013-07-23","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83",NA,29.87,10.8,NA
+"734","2013-07-24","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.79,6.4,NA
+"735","2013-07-25","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.83,3.8,NA
+"736","2013-07-26","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.97,6.7,NA
+"737","2013-07-27","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.94,3.5,NA
+"738","2013-07-28","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",29.94,2.8,NA
+"739","2013-07-29","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.36",30.04,4.3,NA
+"740","2013-07-31","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","1.5",30.06,NA,NA
+"741","2013-08-01","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.01",29.95,6.3,NA
+"742","2013-08-02","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.95,6.5,NA
+"743","2013-08-03","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.97,2.8,NA
+"744","2013-08-04","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.92,6.4,NA
+"745","2013-08-05","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",29.97,8.2,NA
+"746","2013-08-06","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.97,4.9,NA
+"747","2013-08-07","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.99,4.5,NA
+"748","2013-08-08","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30,3.2,NA
+"749","2013-08-09","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30.04,5,NA
+"750","2013-08-10","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,NA,NA,NA
+"751","2013-08-12","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30.02,6.9,NA
+"752","2013-08-13","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0.02",29.9,9,NA
+"753","2013-08-14","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","2.12",29.88,8.3,NA
+"754","2013-08-15","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0.39",29.99,7.8,NA
+"755","2013-08-16","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0.37",29.99,7.5,NA
+"756","2013-08-17","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.17",30.04,4.9,NA
+"757","2013-08-18","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.34",30.1,4.1,NA
+"758","2013-08-19","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.16",30.05,3.3,NA
+"759","2013-08-20","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",30.07,3.4,NA
+"760","2013-08-21","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.04",30.12,2.4,NA
+"761","2013-08-22","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.27",30.07,2.8,NA
+"762","2013-08-23","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30,4.2,NA
+"763","2013-08-24","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.02",30.07,5.3,NA
+"764","2013-08-25","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",30.21,9.2,NA
+"765","2013-08-26","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.17,7.1,NA
+"766","2013-08-27","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.05,3.1,NA
+"767","2013-08-28","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.98,5.6,NA
+"768","2013-08-29","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.19",29.9,6.9,NA
+"769","2013-08-30","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.92,6.2,NA
+"770","2013-08-31","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",29.91,NA,NA
+"771","2013-09-01","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.88,5.7,NA
+"772","2013-09-02","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.88,7.5,NA
+"773","2013-09-03","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83",NA,29.87,6.6,NA
+"774","2013-09-04","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.01",29.97,4.1,NA
+"775","2013-09-05","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83",NA,30.02,3.3,NA
+"776","2013-09-06","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.03,4.9,NA
+"777","2013-09-07","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30,5,NA
+"778","2013-09-09","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.01,3.4,NA
+"779","2013-09-10","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.12,8.1,NA
+"780","2013-09-11","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.11,5.6,NA
+"781","2013-09-12","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.97,3.7,NA
+"782","2013-09-13","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.79,6.8,NA
+"783","2013-09-14","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",29.87,8.1,NA
+"784","2013-09-15","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,30.05,8.5,NA
+"785","2013-09-16","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,30.05,3,NA
+"786","2013-09-17","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75",NA,30.1,9.2,NA
+"787","2013-09-18","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.13,8.6,NA
+"788","2013-09-19","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.09,4.7,NA
+"789","2013-09-20","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30,1.9,NA
+"790","2013-09-21","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77",NA,29.82,4.7,NA
+"791","2013-09-22","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75",NA,29.73,4.7,NA
+"792","2013-09-23","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72",NA,29.92,7.1,NA
+"793","2013-09-24","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74",NA,29.95,8.7,NA
+"794","2013-09-25","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76",NA,29.8,7.9,NA
+"795","2013-09-26","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70",NA,29.83,8.8,NA
+"796","2013-09-27","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",29.98,8.9,NA
+"797","2013-09-28","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","0",30.07,9.7,NA
+"798","2013-09-29","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","0",30.03,7.1,NA
+"799","2013-09-30","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"68","0",30,NA,NA
+"800","2014-05-01","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0.01",29.92,6.6,NA
+"801","2014-05-02","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"66",NA,29.91,4.9,NA
+"802","2014-05-03","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"68",NA,29.91,6.1,NA
+"803","2014-05-04","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",29.97,7.1,NA
+"804","2014-05-05","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",29.94,8.3,NA
+"805","2014-05-07","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.05,5.9,NA
+"806","2014-05-08","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",30.15,6.2,NA
+"807","2014-05-09","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.13,6.4,NA
+"808","2014-05-10","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.08,8.6,NA
+"809","2014-05-11","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81",NA,30.08,3,NA
+"810","2014-05-12","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.12,4.6,NA
+"811","2014-05-13","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.12,3.2,NA
+"812","2014-05-14","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.48",30.07,7,NA
+"813","2014-05-15","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0.28",29.91,9.4,NA
+"814","2014-05-16","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"66","0",29.95,10.2,NA
+"815","2014-05-17","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"67","0",30.13,6,NA
+"816","2014-05-18","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"68","0",30.14,4.9,NA
+"817","2014-05-19","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"67","0.14",30.19,7.3,NA
+"818","2014-05-20","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"68","0",30.21,4.2,NA
+"819","2014-05-21","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76",NA,30.09,8.5,NA
+"820","2014-05-22","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.97,10.4,NA
+"821","2014-05-23","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.94,6.2,NA
+"822","2014-05-24","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30,6.5,NA
+"823","2014-05-25","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0.05",30.1,5.3,NA
+"824","2014-05-26","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.13",30.15,5.1,NA
+"825","2014-05-27","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.09,6.7,NA
+"826","2014-05-28","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,30.02,4.9,NA
+"827","2014-05-29","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.99,4.2,NA
+"828","2014-05-30","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","1.45",30.01,2.3,NA
+"829","2014-05-31","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.01",30.03,NA,NA
+"830","2014-06-01","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74s",NA,30.16,12,NA
+"831","2014-06-02","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.16,6.6,NA
+"832","2014-06-03","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.05,4.1,NA
+"833","2014-06-04","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.92,8.8,NA
+"834","2014-06-05","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.13",29.82,8.4,NA
+"835","2014-06-06","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.8",29.84,6,NA
+"836","2014-06-07","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.05",29.91,5.4,NA
+"837","2014-06-08","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.38",29.91,4.7,NA
+"838","2014-06-09","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.87,6.4,NA
+"839","2014-06-10","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.92,7.1,NA
+"840","2014-06-11","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.9,4.4,NA
+"841","2014-06-12","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.15",29.86,8.2,NA
+"842","2014-06-13","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.85,7.9,NA
+"843","2014-06-14","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",29.93,3.6,NA
+"844","2014-06-15","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.2",30.04,2.6,NA
+"845","2014-06-16","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.11,3.6,NA
+"846","2014-06-17","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.12,2.3,NA
+"847","2014-06-18","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.1,3.3,NA
+"848","2014-06-19","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.08,4.8,NA
+"849","2014-06-20","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.99,5.4,NA
+"850","2014-06-21","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86",NA,29.86,6.6,NA
+"851","2014-06-22","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.01",29.82,7.4,NA
+"852","2014-06-23","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","1.06",29.95,3.5,NA
+"853","2014-06-24","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,30.03,6.6,NA
+"854","2014-06-25","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30,8.4,NA
+"855","2014-06-26","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.96,8.2,NA
+"856","2014-06-27","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.06",29.98,6.7,NA
+"857","2014-06-28","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",30.05,8.1,NA
+"858","2014-06-29","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.1,7.3,NA
+"859","2014-06-30","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.01,NA,NA
+"860","2014-07-01","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.93,3.3,NA
+"861","2014-07-02","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.93,5.8,NA
+"862","2014-07-04","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.98,4.8,NA
+"863","2014-07-05","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.08",30.1,9.1,NA
+"864","2014-07-06","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","1.12",30.06,4.6,NA
+"865","2014-07-07","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",30.01,4.8,NA
+"866","2014-07-08","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30.01,7.9,NA
+"867","2014-07-09","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30,7.3,NA
+"868","2014-07-10","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30.02,7.2,NA
+"869","2014-07-11","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,30.1,3.3,NA
+"870","2014-07-13","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.4",30.07,3.5,NA
+"871","2014-07-14","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","1.2",29.98,8.7,NA
+"872","2014-07-15","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","1.3",29.87,8.6,NA
+"873","2014-07-16","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.83,5.6,NA
+"874","2014-07-17","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,29.94,4.6,NA
+"875","2014-07-18","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",30.06,7.4,NA
+"876","2014-07-19","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,30.05,2.7,NA
+"877","2014-07-20","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.53",30.01,4.2,NA
+"878","2014-07-21","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","3.18",30.03,4.3,NA
+"879","2014-07-22","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",30.03,3.2,NA
+"880","2014-07-23","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30,3.3,NA
+"881","2014-07-24","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.91,8.1,NA
+"882","2014-07-25","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","1.75",29.95,8.3,NA
+"883","2014-07-26","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.02",29.96,5.5,NA
+"884","2014-07-28","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.38",29.83,9.8,NA
+"885","2014-07-29","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.85,5,NA
+"886","2014-07-30","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.94,6.3,NA
+"887","2014-07-31","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0.89",29.97,NA,NA
+"888","2014-08-01","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.96,5,NA
+"889","2014-08-02","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.24",29.99,6.5,NA
+"890","2014-08-03","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.52",29.99,6.9,NA
+"891","2014-08-04","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.02",29.96,7,NA
+"892","2014-08-05","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.96,5.7,NA
+"893","2014-08-07","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86",NA,29.91,3.9,NA
+"894","2014-08-08","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.14",29.98,4.1,NA
+"895","2014-08-09","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","3.59",29.98,3.5,NA
+"896","2014-08-10","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.81",29.96,2.1,NA
+"897","2014-08-11","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","2.24",29.92,2.8,NA
+"898","2014-08-12","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.24",29.85,4.3,NA
+"899","2014-08-13","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.86,7.5,NA
+"900","2014-08-14","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.94,5.7,NA
+"901","2014-08-15","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,29.95,4.3,NA
+"902","2014-08-16","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.96,3.7,NA
+"903","2014-08-17","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.97,6.3,NA
+"904","2014-08-18","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.89,9.6,NA
+"905","2014-08-19","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.86,11,NA
+"906","2014-08-20","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.93,6.7,NA
+"907","2014-08-21","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30.01,3.7,NA
+"908","2014-08-22","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"89","0",29.97,4.3,NA
+"909","2014-08-23","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"89","0",29.86,4.3,NA
+"910","2014-08-25","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",29.96,12.1,NA
+"911","2014-08-26","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.99,8.8,NA
+"912","2014-08-28","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.98,2.8,NA
+"913","2014-08-29","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",30.02,2.1,NA
+"914","2014-08-30","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.1,4.5,NA
+"915","2014-08-31","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30.09,NA,NA
+"916","2014-09-01","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",30.06,3.7,NA
+"917","2014-09-02","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.02",30.03,2.4,NA
+"918","2014-09-03","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.02,2.5,NA
+"919","2014-09-04","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.16",30.07,4.7,NA
+"920","2014-09-05","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.1",30.07,NA,NA
+"921","2014-09-06","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.15",29.97,NA,NA
+"922","2014-09-07","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.04",29.93,NA,NA
+"923","2014-09-08","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","1.05",29.97,2.5,NA
+"924","2014-09-09","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.03,4.8,NA
+"925","2014-09-10","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.02,4.3,NA
+"926","2014-09-11","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.99,2.3,NA
+"927","2014-09-12","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.98,2.6,NA
+"928","2014-09-13","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.01",30.01,1.9,NA
+"929","2014-09-14","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","1.05",30.09,5.1,NA
+"930","2014-09-15","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.01",30.11,4.1,NA
+"931","2014-09-16","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.64",29.98,2.7,NA
+"932","2014-09-17","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.17",29.87,3.9,NA
+"933","2014-09-18","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0.93",29.89,2.7,NA
+"934","2014-09-19","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.05",29.99,8.3,NA
+"935","2014-09-20","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0.18",29.98,10.6,NA
+"936","2014-09-21","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",29.91,7.2,NA
+"937","2014-09-22","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.61",29.96,4.9,NA
+"938","2014-09-23","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"68","0.08",30.08,NA,NA
+"939","2014-09-24","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"62","0.17",30.12,NA,NA
+"940","2014-09-25","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70",NA,30.1,NA,NA
+"941","2014-09-26","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"73","0",30.06,NA,NA
+"942","2014-09-27","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0.02",30.05,NA,NA
+"943","2014-09-28","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.03,NA,NA
+"944","2014-09-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"71","0.12",29.91,7.6,NA
+"945","2014-09-30","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",29.85,NA,NA
+"946","2015-05-01","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"64","0",29.84,10.2,NA
+"947","2015-05-02","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"64",NA,30.02,3,NA
+"948","2015-05-03","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"68","0",30.12,3.1,NA
+"949","2015-05-04","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"69","0",30.24,4.9,NA
+"950","2015-05-05","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"69","0",30.25,7.6,NA
+"951","2015-05-06","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"71","0",30.1,7.2,NA
+"952","2015-05-07","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"66","0.71",30,11,NA
+"953","2015-05-08","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"73","0",29.95,12.1,NA
+"954","2015-05-09","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75",NA,29.97,9.6,NA
+"955","2015-05-10","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",30.01,6.7,NA
+"956","2015-05-11","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,30.07,4.8,NA
+"957","2015-05-12","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,30.09,6.7,NA
+"958","2015-05-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.09,5.4,NA
+"959","2015-05-14","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",30.21,8.5,NA
+"960","2015-05-16","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"73","0",30.21,3.8,NA
+"961","2015-05-17","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.21,3.2,NA
+"962","2015-05-18","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",30.15,3.6,NA
+"963","2015-05-19","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.02",29.99,4.8,NA
+"964","2015-05-20","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81",NA,29.89,3.3,NA
+"965","2015-05-21","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.83,9.7,NA
+"966","2015-05-22","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",30.06,6.6,NA
+"967","2015-05-23","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"71","0",30.28,8.7,NA
+"968","2015-05-24","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.28,9.3,NA
+"969","2015-05-25","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.23,9.1,NA
+"970","2015-05-26","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.19,5.5,NA
+"971","2015-05-27","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.19,3.6,NA
+"972","2015-05-28","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",30.16,5.3,NA
+"973","2015-05-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.14,6.6,NA
+"974","2015-05-30","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0.02",30.1,6.8,NA
+"975","2015-05-31","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",30.04,NA,NA
+"976","2015-06-01","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",30.04,3.1,NA
+"977","2015-06-02","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.06",29.96,4.1,NA
+"978","2015-06-03","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"73","0.59",29.93,2.9,NA
+"979","2015-06-04","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0.26",29.97,5.7,NA
+"980","2015-06-05","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",29.97,5.2,NA
+"981","2015-06-06","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0.03",29.9,4.3,NA
+"982","2015-06-07","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30,3.6,NA
+"983","2015-06-08","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.02,3.9,NA
+"984","2015-06-09","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","1.44",29.91,7,NA
+"985","2015-06-10","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79",NA,29.9,2.4,NA
+"986","2015-06-12","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.44",30.06,6.2,NA
+"987","2015-06-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,30.08,6.7,NA
+"988","2015-06-15","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"87","0",30.04,5.1,NA
+"989","2015-06-16","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",30.04,4.8,NA
+"990","2015-06-17","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",30.03,4.2,NA
+"991","2015-06-18","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30.03,5,NA
+"992","2015-06-19","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",30,4.4,NA
+"993","2015-06-20","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",29.98,7.6,NA
+"994","2015-06-21","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"90","0.17",29.98,7.6,NA
+"995","2015-06-22","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.71",30.01,5.3,NA
+"996","2015-06-28","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.17",29.87,8.3,NA
+"997","2015-06-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.94,5.2,NA
+"998","2015-07-02","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.71",29.98,7.7,NA
+"999","2015-07-03","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.1",29.97,9.1,NA
+"1000","2015-07-05","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.31",30.09,5.7,NA
+"1001","2015-07-06","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.1,3.7,NA
+"1002","2015-07-07","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.05",30.09,3.7,NA
+"1003","2015-07-08","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.11,4.3,NA
+"1004","2015-07-09","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",30.1,4.8,NA
+"1005","2015-07-10","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30.07,5.3,NA
+"1006","2015-07-11","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",30.03,5.1,NA
+"1007","2015-07-12","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.96,5.4,NA
+"1008","2015-07-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86",NA,29.87,6.5,NA
+"1009","2015-07-14","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.23",29.78,8.2,NA
+"1010","2015-07-15","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86",NA,29.78,10.6,NA
+"1011","2015-07-16","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.88,3.9,NA
+"1012","2015-07-17","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.95,6.1,NA
+"1013","2015-07-18","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.98,2.9,NA
+"1014","2015-07-19","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.43",29.93,3.8,NA
+"1015","2015-07-20","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.85,6.6,NA
+"1016","2015-07-21","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"87","0.15",29.79,8.5,NA
+"1017","2015-07-22","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.5",29.83,6.1,NA
+"1018","2015-07-23","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.9",29.88,7.9,NA
+"1019","2015-07-24","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.51",29.88,5.7,NA
+"1020","2015-07-25","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.91,7.8,NA
+"1021","2015-07-27","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.91,6.1,NA
+"1022","2015-07-28","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.93,5.2,NA
+"1023","2015-07-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.92,4.9,NA
+"1024","2015-07-30","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.9,3.9,NA
+"1025","2015-07-31","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.04",29.88,NA,NA
+"1026","2015-08-01","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.03",29.87,2.1,NA
+"1027","2015-08-02","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","2.29",29.88,3.6,NA
+"1028","2015-08-03","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.03",29.86,3.8,NA
+"1029","2015-08-04","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.91,6.3,NA
+"1030","2015-08-05","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.98,7,NA
+"1031","2015-08-06","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.25",29.93,7.9,NA
+"1032","2015-08-07","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.03",29.78,7.5,NA
+"1033","2015-08-08","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",29.82,4.9,NA
+"1034","2015-08-09","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.94,4,NA
+"1035","2015-08-10","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.95,3.6,NA
+"1036","2015-08-11","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.37",29.91,5.3,NA
+"1037","2015-08-12","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.89,4.9,NA
+"1038","2015-08-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",29.96,7.4,NA
+"1039","2015-08-14","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",30.06,8,NA
+"1040","2015-08-15","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.07,7,NA
+"1041","2015-08-16","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.1,4.7,NA
+"1042","2015-08-17","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.69",30.09,2.7,NA
+"1043","2015-08-18","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,30,4,NA
+"1044","2015-08-19","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0.03",29.96,4.8,NA
+"1045","2015-08-21","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.96,4.4,NA
+"1046","2015-08-22","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.58",29.98,3.8,NA
+"1047","2015-08-23","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.4",29.94,4,NA
+"1048","2015-08-24","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.02",29.89,1.5,NA
+"1049","2015-08-25","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.85,3.5,NA
+"1050","2015-08-26","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84",NA,29.87,3.2,NA
+"1051","2015-08-27","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.88",29.93,5.6,NA
+"1052","2015-08-28","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","1.14",30.04,7.3,NA
+"1053","2015-08-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.13",30.1,6.6,NA
+"1054","2015-08-30","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","1.46",30.05,5.7,NA
+"1055","2015-08-31","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.69",30.01,NA,NA
+"1056","2015-09-01","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",30.05,2.5,NA
+"1057","2015-09-02","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",30.02,2.7,NA
+"1058","2015-09-04","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.02",29.91,2.5,NA
+"1059","2015-09-05","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.47",29.99,4.5,NA
+"1060","2015-09-06","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.48",30.01,8,NA
+"1061","2015-09-07","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.15",29.98,6.8,NA
+"1062","2015-09-08","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.08",29.98,4.2,NA
+"1063","2015-09-09","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.94,5.5,NA
+"1064","2015-09-10","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.22",29.88,6.1,NA
+"1065","2015-09-11","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81","0",29.84,6.4,NA
+"1066","2015-09-12","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.04",29.81,9.2,NA
+"1067","2015-09-13","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",29.89,6.8,NA
+"1068","2015-09-14","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","0",30.14,5.9,NA
+"1069","2015-09-15","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",30.24,7.1,NA
+"1070","2015-09-16","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0",30.2,7.6,NA
+"1071","2015-09-17","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76",NA,30.04,8.5,NA
+"1072","2015-09-18","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78",NA,29.87,9.1,NA
+"1073","2015-09-19","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.83,6.8,NA
+"1074","2015-09-20","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.87,2.8,NA
+"1075","2015-09-21","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"79","0",29.92,1.2,NA
+"1076","2015-09-22","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.97,9.8,NA
+"1077","2015-09-23","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0",29.99,9.9,NA
+"1078","2015-09-24","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","1.13",29.95,10.3,NA
+"1079","2015-09-25","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"71","0",29.91,3.2,NA
+"1080","2015-09-26","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76",NA,29.97,7.4,NA
+"1081","2015-09-27","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",29.98,7.6,NA
+"1082","2015-09-28","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80",NA,29.91,5.1,NA
+"1083","2015-09-29","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.01",29.81,0.9,NA
+"1084","2015-09-30","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.06",29.74,NA,NA
+"1085","2016-05-01","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.04",30,6.2,NA
+"1086","2016-05-02","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.2",29.98,5,NA
+"1087","2016-05-03","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","1.08",29.81,7.1,NA
+"1088","2016-05-04","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72",NA,29.68,8.5,NA
+"1089","2016-05-05","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"64","0",29.62,12.2,NA
+"1090","2016-05-06","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"60","0.18",29.79,7.1,NA
+"1091","2016-05-07","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"66","0",29.87,7.7,NA
+"1092","2016-05-08","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.91,9.5,NA
+"1093","2016-05-09","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.04,5.4,NA
+"1094","2016-05-10","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"","0",30.12,NA,NA
+"1095","2016-05-11","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.11,4.5,NA
+"1096","2016-05-12","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.14",30.05,4.6,NA
+"1097","2016-05-13","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.19",29.92,6.3,NA
+"1098","2016-05-14","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",29.86,9,NA
+"1099","2016-05-15","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"71","0",29.98,6.5,NA
+"1100","2016-05-16","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","0",30.11,7.4,NA
+"1101","2016-05-17","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"",NA,NA,NA,NA
+"1102","2016-05-18","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"75","0",29.92,5,NA
+"1103","2016-05-19","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0.23",29.99,6.1,NA
+"1104","2016-05-20","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0.3",30.01,6.6,NA
+"1105","2016-05-21","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.04",29.91,7.3,NA
+"1106","2016-05-22","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",29.82,7.6,NA
+"1107","2016-05-23","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","0",29.91,4.9,NA
+"1108","2016-05-24","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"72","0",30.08,3.5,NA
+"1109","2016-05-25","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.17,3.3,NA
+"1110","2016-05-26","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"77","0",30.13,3.1,NA
+"1111","2016-05-27","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","0",30.07,5.5,NA
+"1112","2016-05-28","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"74","1.8",30.04,8.8,NA
+"1113","2016-05-29","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"70","1.4",29.9,11.5,NA
+"1114","2016-05-30","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0.17",29.89,7,NA
+"1115","2016-05-31","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.87,NA,NA
+"1116","2016-06-01","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"81",NA,29.94,2.5,NA
+"1117","2016-06-02","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0",29.99,2.2,NA
+"1118","2016-06-03","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.01",30,3.3,NA
+"1119","2016-06-04","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.95,5.5,NA
+"1120","2016-06-05","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.26",29.87,4.5,NA
+"1121","2016-06-06","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","2.45",29.84,4.9,NA
+"1122","2016-06-08","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0",29.81,5.4,NA
+"1123","2016-06-09","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0",29.95,4.5,NA
+"1124","2016-06-10","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82",NA,30.02,2.1,NA
+"1125","2016-06-12","First quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85",NA,29.99,7.9,NA
+"1126","2016-06-13","Waxing gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.89,5.4,NA
+"1127","2016-06-14","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.88,3.1,NA
+"1128","2016-06-15","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86",NA,29.91,7,NA
+"1129","2016-06-16","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.81,10.6,NA
+"1130","2016-06-17","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.54",29.75,8.2,NA
+"1131","2016-06-18","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"78","0.01",30,11.6,NA
+"1132","2016-06-19","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.23,9.7,NA
+"1133","2016-06-20","Full",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"76","0",30.22,4.3,NA
+"1134","2016-06-22","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0",30.04,8.4,NA
+"1135","2016-06-23","Waning gibbous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30.03,7.6,NA
+"1136","2016-06-24","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0",29.99,8.5,NA
+"1137","2016-06-26","Third quarter",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",30.07,6.3,NA
+"1138","2016-06-28","Waning crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0.08",29.93,3.1,NA
+"1139","2016-06-29","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"82","0.4",29.9,2.3,NA
+"1140","2016-06-30","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"80","0.2",29.96,NA,NA
+"1141","2016-07-01","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"83","0.08",29.96,3.8,NA
+"1142","2016-07-02","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"85","0",29.99,5.8,NA
+"1143","2016-07-03","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"88","0",30.01,6.5,NA
+"1144","2016-07-04","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"87","0.34",30.03,7.9,NA
+"1145","2016-07-05","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86",NA,30.02,9.9,NA
+"1146","2016-07-06","New",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"86","0.33",30.03,8.2,NA
+"1147","2016-07-07","Waxing crescent",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"No",NA,NA,NA,"84","0",29.99,9.9,NA
