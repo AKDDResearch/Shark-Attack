@@ -1,3 +1,4 @@
+#Code to get wind direction on daily basis from the degree of wind direction (Raw source data ).
 wind_data <- read.csv('Winddirectionraw.csv', header = T, stringsAsFactors = F)
 dim(wind_data)[1]
 names(wind_data)
