@@ -1,5 +1,5 @@
 
-#to find teh months of attack
+#Code to find the months of attack 
 SHARKATTACK<- read.csv('sharkattack.csv', header = T, stringsAsFactors = F)
 install.packages("lubridate")
 SHARKATTACK $Date <- gsub('', '', MDEHBFile $TEHBDedInnTier1Individual)
