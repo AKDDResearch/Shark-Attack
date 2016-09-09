@@ -1,3 +1,4 @@
+#Code for exploratory data analysis using shark attack file with attack = YES
 sharkattacknc <- read.csv('NC-2000_2016.csv', header = T, stringsAsFactors = F)
 #1) barplot of activity invloved while attack 
 summary(sharkattacknc $Activity)
