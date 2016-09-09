@@ -1,3 +1,4 @@
+#Code to convert [raw weather data file into aggregated weather data on a daily basis.
 weatherdata <- read.csv('weatherdata.csv', header = T, stringsAsFactors = F)
 
 weatherdata $DAILYAverageSeaLevelPressure <- as.factor(weatherdata $DAILYAverageSeaLevelPressure)
