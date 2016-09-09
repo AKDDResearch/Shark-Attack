@@ -1,3 +1,5 @@
+#Code to discretize variables based on equal binning with 3 bins 
+
 sharkattackoutput <- read.csv("alldatesharkwithsc.csv", header = T, stringsAsFactors = F)
 #discretization of dissolved oxygen
 dis_disso2 <-discretize(sharkattackoutput$Dissoved_O2_Mod,"equalwidth", 3)
