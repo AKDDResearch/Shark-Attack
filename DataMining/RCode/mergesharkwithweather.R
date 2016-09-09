@@ -1,4 +1,4 @@
-<<<<<<< HEAD:DataMining/RCode/mergesharkwithweather.R
+
 #merging weather data with shark attack
 
 ncdata <- read.csv('nc_data.csv', header = T, stringsAsFactors = F)
