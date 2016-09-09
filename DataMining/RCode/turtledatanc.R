@@ -1,3 +1,4 @@
+#Code to get aggregated nesting and false crawls for turtle activity on daily basis .
 turtledatanc <- read.csv('turtledatanc.csv', header = T, stringsAsFactors = F)
 dim(turtledatanc)[1]
 turtledatanc $Activity <- as.factor(turtledatanc $Activity)
