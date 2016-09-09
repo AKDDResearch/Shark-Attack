@@ -1,3 +1,5 @@
+#Code to analyze the chlorophyll data to the prediction of shark attacks .
+
 chloro_data <- read.csv('cholorophyll.csv', header = T, stringsAsFactors = F)
 dim(chloro_data)[1]
 splitloc <- strsplit(as.character(chloro_data $DateTimeStamp),' ') 
