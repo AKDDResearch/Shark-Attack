@@ -1,3 +1,5 @@
+#Code to integrate data from all data files
+#integrated Moonphase , Turtle,Weather , Dissolved Oxygen , Water Temperature 
 sharkfile <- read.csv("NC_AND_SC.csv", header = T, stringsAsFactors = F)
 names(sharkfile)
 sharkfile <- sharkfile[,c(2,6,7,14,15,17,20)]
