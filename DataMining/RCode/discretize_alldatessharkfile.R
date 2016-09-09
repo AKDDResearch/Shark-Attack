@@ -1,3 +1,5 @@
+#Discretization of  additional variables shark attack file with attack = YES
+
 sharkattackoutput <- read.csv("attackdateshark.csv", header = T, stringsAsFactors = F)
 #discretization of dissolved oxygen
 dis_disso2 <-discretize(sharkattackoutput$mod_dissolvedo2,"equalwidth", 3)
