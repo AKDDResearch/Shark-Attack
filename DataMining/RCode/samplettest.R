@@ -1,3 +1,5 @@
+#Hypothesis testing for comparing the means of windspeed anf turbidity between sample file(dates with attack = NO ) and large file(all the dates after balancing )
+
 samplefile <- read.csv("samplefileattackno.csv", header = T, stringsAsFactors = F)
 n1<- dim(samplefile)[1]
 
