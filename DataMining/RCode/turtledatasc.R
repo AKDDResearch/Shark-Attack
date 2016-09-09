@@ -1,3 +1,4 @@
+#Code to get aggregated nesting and false crawls for turtle activity on daily basis  for South Carolina State.
 turtledatasc <- read.csv('sc_turtle_data.csv', header = T, stringsAsFactors = F)
 dim(turtledatasc)[1]
 turtledatasc $Activity <- as.factor(turtledatasc $Activity)
