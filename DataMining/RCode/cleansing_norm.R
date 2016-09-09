@@ -1,3 +1,7 @@
+#Merging Weather data with salinity and turbidity data 
+
+
+
 weatherdata <- read.csv('weathersharkattackintegrated_Modified1.csv', header = T, stringsAsFactors = F)
 names(weatherdata)
 #cleansing the precipitation variable
@@ -16,22 +20,6 @@ summary(weatherdatatotal $Modified.Precipitation.Value)
 weatherdatatotal $prep_moving_average <- SMA(weatherdatatotal $Modified.Precipitation.Value , n = 5)
 summary(weatherdatatotal $prep_moving_average)
 min(weatherdatatotal $prep_moving_average)
-# code to set the nominal varaible of rainfall
-#for(i in 1:dim(weatherdatatotal)[1])
-#{
- # if (weatherdatatotal $prep_moving_average <= )
-#  {
- #   weatherdatatotal $rainfall <- "dry"
-  #}
-  #else
-  #{
-   # weatherdatatotal $rainfall <- "wet"
-  #}
-  
-#}
-#
-
-
 
 
 #Normalization of weather data 
