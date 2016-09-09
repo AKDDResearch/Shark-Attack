@@ -1,3 +1,5 @@
+#Code to add Normalised Variables to the balanced file using Z-score and Min-max normalization.
+
 balfile <- read.csv("large_file_final.csv", header = T, stringsAsFactors = F)
 
 
