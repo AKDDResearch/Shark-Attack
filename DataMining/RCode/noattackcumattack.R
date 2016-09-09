@@ -1,3 +1,5 @@
+#Integration of data for file of all dates including attacks with /without shark attack
+
 allsharkfile <- read.csv("sharkfiletotal.csv", header = T, stringsAsFactors = F)
 names(allsharkfile)
 allsharkfile <- allsharkfile[,c(2,10,11,18,19,21,24,30,32,33,34,35,36,4)]
@@ -6,9 +8,7 @@ allsharkfile <- allsharkfile[,c(2,10,11,18,19,21,24,30,32,33,34,35,36,4)]
 splitloc <- strsplit(as.character(allsharkfile $Location),',') 
 length(splitloc)
 for(i in 1:length(splitloc))
-{#print(i)
-  #  print(length(splitloc[[i]]))
-  # print(splitloc[[i]][length(splitloc[[i]])])
+{
   allsharkfile $beach[i] <- splitloc[[i]][1]
   allsharkfile $county[i] <- splitloc[[i]][length(splitloc[[i]])]
 }
