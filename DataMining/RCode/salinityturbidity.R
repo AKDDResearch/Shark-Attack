@@ -1,3 +1,5 @@
+#Code to get dailt data for salinity and turbidity from raw data source
+
 sal_turb_data <- read.csv('sal_turb_data.csv', header = T, stringsAsFactors = F)
 
 #sal_turb_data$date <- strptime(x = as.vector(sal_turb_data$DateTimeStamp),format = "%d/%m/%Y %H:%M")
