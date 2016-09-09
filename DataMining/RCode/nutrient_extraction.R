@@ -1,3 +1,6 @@
+
+#Code to extract dissolved oxygen from raw data source
+
 do_data <- read.csv('sal_turb_data.csv', header = T, stringsAsFactors = F)
 dim(do_data)[1]
 splitloc <- strsplit(as.character(sal_turb_data $DateTimeStamp),' ') 
