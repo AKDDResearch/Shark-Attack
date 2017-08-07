@@ -21,6 +21,6 @@ Sarah Beardmore DORSAL app, Professional Surfer
 
 Lavanya Vinodh, MS Data Scientist, Shark Researcher
 
-KDD Class of Summer 2015 Class Project on analyzing the shark attacks of Summer 2015 along the east coast
+KDD Class of Summer 2015 Class Project on analyzing the shark attacks of Summer 2015 along the east coast, taught by Dr. Pamela Thompson, CS, UNCC and Catawba College, NC
 
 Christian Watts, Catawba College Shark Researcher
