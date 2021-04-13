@@ -6,7 +6,11 @@ The objective of this research is to improve our understanding of the presence o
 
 An additional focus of this research is to analyze social media activity relative to shark presence. Tweets will be mined with specific data ranges and locations in order to assess social media activity with respect to shark sightings, attacks, and even activities that are related to shark presence such as schools of fish. Once the nature of this activity is understood, a standardized way to tweet will be promoted with interested and strategic partners in order to ultimately provide an additional feed to the app described above.
 
-Final Data Sets are provided. Raw data is not always provided due to sensitive nature of some of the data that we have analyzed, for example turtle nesting and false crawl behavior. Thank you to the following individuals and organizations for providing data and/or support for the project:
+Final Data Sets are provided. Raw data is not always provided due to sensitive nature of some of the data that we have analyzed, for example turtle nesting and false crawl behavior. 
+
+A Jupyter Notebook appropriate for undergraduate students in data mining with an interest in exploring the data and running three models (Knn, Decision Tree, Random Forest) can be opened on Google Colab:  https://colab.research.google.com/github/catawba-data-mining/CIS-3902-Data-Mining/blob/main/Project%20Deliverable%201%20Detecting%20Shark%20Presence.ipynb#scrollTo=--cSRHE398Fy
+
+Thank you to the following individuals and organizations for providing data and/or support for the project:
 
 Turtle Data: From the National Oceanic and Atmospheric Administration (NOAA) National Marine Fisheries Service, Southeast Fisheries Science Center: Michelle Pate, Coordinator SC Marine Turtle Conservation Program
 
