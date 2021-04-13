@@ -1,4 +1,4 @@
-# Shark-Attack-Research
+# Understanding-Presence-of-Sharks-in-Near-Shore-Waters-NC-SC
 
 STATEMENT OF PURPOSE FOR THIS RESEARCH
 
