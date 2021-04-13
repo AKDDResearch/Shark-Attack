@@ -10,8 +10,8 @@ Final Data Sets are provided. Raw data is not always provided due to sensitive n
 
 Turtle Data: From the National Oceanic and Atmospheric Administration (NOAA) National Marine Fisheries Service, Southeast Fisheries Science Center: Michelle Pate, Coordinator SC Marine Turtle Conservation Program
 
- Dr. Matthew Godfrey
- State Coordinator, NC Sea Turtle Program
+Dr. Matthew Godfrey
+State Coordinator, NC Sea Turtle Program
 Shark habitat information and overall feedback on research: Dr. Charles Bagley, East Carolina University
 
 Crab Landings, NC: Alan Bianchi, Trip Ticket Coordinator License and Statistics Section North Carolina Division of Marine Fisheries
@@ -25,3 +25,5 @@ Lavanya Vinodh, MS Data Scientist, Shark Researcher
 KDD Class of Summer 2015 Class Project on analyzing the shark attacks of Summer 2015 along the east coast, taught by Dr. Pamela Thompson, CS, UNCC and Catawba College, NC
 
 Christian Watts, Catawba College Shark Researcher
+
+Dr. Pamela Thompson Blog (Shark Research):  
