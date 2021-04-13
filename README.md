@@ -30,4 +30,4 @@ KDD Class of Summer 2015 Class Project on analyzing the shark attacks of Summer 
 
 Christian Watts, Catawba College Shark Researcher
 
-Dr. Pamela Thompson Blog (Shark Research):  
+Dr. Pamela Thompson Blog (Shark Research):  https://www.linkedin.com/in/drpamelathompson/
