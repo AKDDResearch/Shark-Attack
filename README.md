@@ -31,3 +31,4 @@ KDD Class of Summer 2015 Class Project on analyzing the shark attacks of Summer 
 Christian Watts, Catawba College Shark Researcher
 
 Dr. Pamela Thompson Blog (Shark Research):  https://www.linkedin.com/in/drpamelathompson/
+UPDATE: Spring 2024: Additional research with new shark receiver data in ongoing with shark, weather, wind, and moon phase data in order to improve a predictive model for great white shark near shore presence off of the coast of Cape Cod, Massachusetts.
