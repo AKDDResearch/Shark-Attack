@@ -2,7 +2,7 @@
 
 <h2>ASSIGNMENT OBJECTIVES:</h2><p></p> Beginning undergraduate students will learn the Machine Learning Life Cycle as they apply AI and Machine Learning in the preparation of data for use in visualization and classification as they develop a model that predicts near shore shark presence off of the coast of North Carolina and South Carolina. After domain understanding, data will be prepared and visualized from the international shark attack file, along with weather, moon phase, and prey data from online sources. Classfication and ensemble models will be used to predict the presence of sharks. Students will also understand the limitations and bias associated with this preliminary research as they explore improved data collection for great white sharks.</p>
 
-<h2>PREREQUiSITES:</h2><p> Introductory knowledge in Statistics, Python. This assignment can be used to stimulate interest in data science and machine learning. The exercise is appropriate for undergraduate students in data mining with an interest in exploring and visualizing data, while three models are developed: Knn, Decision Tree, and Random Forest.</p>
+<h2>PREREQUISITES:</h2><p> Introductory knowledge in Statistics, Python. This assignment can be used to stimulate interest in data science and machine learning. The exercise is appropriate for undergraduate students in data mining with an interest in exploring and visualizing data, while three models are developed: Knn, Decision Tree, and Random Forest.</p>
 
 <h2>SOFTWARE:</h2><p>All data and notebooks are provided on a public Github repository. Notebooks open and run in Google Colab.</p>
 
