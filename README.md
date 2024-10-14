@@ -7,12 +7,11 @@
 <h2>SOFTWARE:</h2><p>All data and notebooks are provided on a public Github repository. Notebooks open and run in Google Colab.</p>
 
 <h2>START OF ASSIGNMENT:</h2>
-<br>
 <h2>RESEARCH SUMMARY:</h2><p>The objective of this research is to improve our understanding of the presence of sharks during tourist seasons in middle Atlantic and south eastern coastal waters, specifically North Carolina and South Carolina. The study will focus on the analysis of existing data from the International Shark Attack database, weather and water data from NOAA, calculated moon phase dates, crab and turtle populations. The quantitative analysis on this data will lead to new and interesting knowledge that will ultimately provide the basis for improved data collection and an app providing advanced information on the likelihood of sharks in coastal waters where tourists swim, surf and wade.</p><p>
 
 Final Data Sets are provided. Raw data is not always provided due to sensitive nature of some of the data that we have analyzed, for example turtle nesting and false crawl behavior. </p>
 
-<p>A Jupyter Notebook appropriate for undergraduate students in data mining with an interest in exploring the data and running three models (Knn, Decision Tree, Random Forest) can be opened on Google Colab:  https://colab.research.google.com/github/catawba-data-mining/CIS-3902-Data-Mining/blob/main/Project%20Deliverable%201%20Detecting%20Shark%20Presence.ipynb#scrollTo=--cSRHE398Fy</p>
+<p>To get started, please open the following Jupyter Notebook in Google Colab (click on link): <br> https://colab.research.google.com/github/catawba-data-mining/CIS-3902-Data-Mining/blob/main/Project%20Deliverable%201%20Detecting%20Shark%20Presence.ipynb#scrollTo=--cSRHE398Fy</p><br>
 
 <p>Thank you to the following individuals and organizations for providing data and/or support for the project:<br><br>
 
