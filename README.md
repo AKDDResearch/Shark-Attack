@@ -7,7 +7,7 @@
 <h2>SOFTWARE:</h2><p>All data and notebooks are provided on a public Github repository. Notebooks open and run in Google Colab.</p>
 
 <h2>START OF ASSIGNMENT:</h2>
-<br><br>
+<br>
 <h2>RESEARCH SUMMARY:</h2><p>The objective of this research is to improve our understanding of the presence of sharks during tourist seasons in middle Atlantic and south eastern coastal waters, specifically North Carolina and South Carolina. The study will focus on the analysis of existing data from the International Shark Attack database, weather and water data from NOAA, calculated moon phase dates, crab and turtle populations. The quantitative analysis on this data will lead to new and interesting knowledge that will ultimately provide the basis for improved data collection and an app providing advanced information on the likelihood of sharks in coastal waters where tourists swim, surf and wade.</p><p>
 
 Final Data Sets are provided. Raw data is not always provided due to sensitive nature of some of the data that we have analyzed, for example turtle nesting and false crawl behavior. </p>
